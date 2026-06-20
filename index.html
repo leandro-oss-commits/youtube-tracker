@@ -1,0 +1,279 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>YouTube Tracker</title>
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+    background: #0f0f0f;
+    color: #f1f1f1;
+    padding: 32px 24px;
+  }
+  h1 {
+    font-size: 28px;
+    margin-bottom: 8px;
+  }
+  .subtitle {
+    color: #aaa;
+    margin-bottom: 32px;
+    font-size: 14px;
+  }
+  .filters {
+    display: flex;
+    gap: 8px;
+    margin-bottom: 24px;
+    flex-wrap: wrap;
+  }
+  .filter-btn {
+    background: #272727;
+    color: #f1f1f1;
+    border: none;
+    padding: 8px 16px;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 13px;
+    transition: background 0.2s;
+  }
+  .filter-btn:hover { background: #3f3f3f; }
+  .filter-btn.active { background: #f1f1f1; color: #0f0f0f; }
+  .grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+    gap: 20px;
+  }
+  .card {
+    background: #1a1a1a;
+    border-radius: 12px;
+    overflow: hidden;
+    transition: transform 0.2s, box-shadow 0.2s;
+  }
+  .card:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 8px 24px rgba(0,0,0,0.4);
+  }
+  .thumbnail {
+    width: 100%;
+    aspect-ratio: 16/9;
+    object-fit: cover;
+    display: block;
+  }
+  .card-body {
+    padding: 12px;
+  }
+  .card-title {
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 1.4;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    margin-bottom: 8px;
+  }
+  .card-title a {
+    color: #f1f1f1;
+    text-decoration: none;
+  }
+  .card-title a:hover { color: #ff4d4d; }
+  .card-meta {
+    font-size: 12px;
+    color: #aaa;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .channel-badge {
+    font-size: 11px;
+    color: #aaa;
+    margin-bottom: 8px;
+    display: flex;
+    align-items: center;
+    gap: 6px;
+  }
+  .channel-dot {
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    display: inline-block;
+  }
+  .dot-gary { background: #ff6b6b; }
+  .dot-openai { background: #00d2ff; }
+  .dot-ali { background: #ffd93d; }
+  .views { font-weight: 500; }
+  .time { color: #888; }
+  .loading {
+    text-align: center;
+    padding: 60px;
+    color: #666;
+    font-size: 16px;
+  }
+  .stats-bar {
+    display: flex;
+    gap: 24px;
+    margin-bottom: 24px;
+    flex-wrap: wrap;
+  }
+  .stat-card {
+    background: #1a1a1a;
+    padding: 16px 20px;
+    border-radius: 10px;
+    flex: 1;
+    min-width: 140px;
+  }
+  .stat-number {
+    font-size: 24px;
+    font-weight: 700;
+  }
+  .stat-label {
+    font-size: 12px;
+    color: #aaa;
+    margin-top: 4px;
+  }
+  @media (max-width: 600px) {
+    .grid { grid-template-columns: 1fr; }
+    body { padding: 16px; }
+  }
+</style>
+</head>
+<body>
+  <h1>📺 YouTube Tracker</h1>
+  <p class="subtitle" id="subtitle">Loading...</p>
+
+  <div class="stats-bar" id="statsBar"></div>
+
+  <div class="filters" id="filters"></div>
+
+  <div class="grid" id="grid"></div>
+
+  <script>
+    async function loadVideos() {
+      const resp = await fetch('videos.json');
+      const videos = await resp.json();
+
+      // Update subtitle
+      const channels = [...new Set(videos.map(v => v.channelTitle))];
+      document.getElementById('subtitle').textContent =
+        `Tracking ${channels.length} channels · ${videos.length} videos`;
+
+      // Stats bar
+      const totalViews = videos.reduce((sum, v) => sum + v.viewCount, 0);
+      const d = new Date();
+      document.getElementById('statsBar').innerHTML = `
+        <div class="stat-card">
+          <div class="stat-number">${videos.length}</div>
+          <div class="stat-label">Videos tracked</div>
+        </div>
+        <div class="stat-card">
+          <div class="stat-number">${channels.length}</div>
+          <div class="stat-label">Channels</div>
+        </div>
+        <div class="stat-card">
+          <div class="stat-number">${formatNumber(totalViews)}</div>
+          <div class="stat-label">Total views</div>
+        </div>
+      `;
+
+      // Filters
+      const filterDiv = document.getElementById('filters');
+      const allBtn = document.createElement('button');
+      allBtn.className = 'filter-btn active';
+      allBtn.textContent = 'All';
+      allBtn.onclick = () => { setFilter('all'); setActive(allBtn); };
+      filterDiv.appendChild(allBtn);
+
+      channels.forEach(ch => {
+        const btn = document.createElement('button');
+        btn.className = 'filter-btn';
+        btn.textContent = ch;
+        btn.onclick = () => { setFilter(ch); setActive(btn); };
+        filterDiv.appendChild(btn);
+      });
+
+      // Render
+      window.allVideos = videos;
+      window.currentFilter = 'all';
+      renderVideos(videos);
+    }
+
+    function setFilter(channel) {
+      window.currentFilter = channel;
+      if (channel === 'all') {
+        renderVideos(window.allVideos);
+      } else {
+        renderVideos(window.allVideos.filter(v => v.channelTitle === channel));
+      }
+    }
+
+    function setActive(btn) {
+      document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
+    }
+
+    function renderVideos(videos) {
+      const grid = document.getElementById('grid');
+      grid.innerHTML = videos.map(v => {
+        const dotClass = getDotClass(v.channelTitle);
+        const ago = timeAgo(v.publishedAt);
+        return `
+          <div class="card">
+            <a href="https://www.youtube.com/watch?v=${v.videoId}" target="_blank">
+              <img class="thumbnail" src="${v.thumbnail}" alt="${escapeHtml(v.title)}" loading="lazy">
+            </a>
+            <div class="card-body">
+              <div class="channel-badge">
+                <span class="channel-dot ${dotClass}"></span>
+                ${escapeHtml(v.channelTitle)}
+              </div>
+              <div class="card-title">
+                <a href="https://www.youtube.com/watch?v=${v.videoId}" target="_blank">
+                  ${escapeHtml(v.title)}
+                </a>
+              </div>
+              <div class="card-meta">
+                <span class="views">${formatNumber(v.viewCount)} views</span>
+                <span class="time">${ago}</span>
+              </div>
+            </div>
+          </div>
+        `;
+      }).join('');
+    }
+
+    function getDotClass(channel) {
+      const map = {
+        'Gary Chen': 'dot-gary',
+        'OpenAI': 'dot-openai',
+        'Ali Abdaal': 'dot-ali'
+      };
+      return map[channel] || 'dot-gary';
+    }
+
+    function formatNumber(n) {
+      if (n >= 1000000) return (n / 1000000).toFixed(1) + 'M';
+      if (n >= 1000) return (n / 1000).toFixed(1) + 'K';
+      return n.toString();
+    }
+
+    function timeAgo(dateStr) {
+      const now = new Date();
+      const d = new Date(dateStr);
+      const diff = (now - d) / 1000;
+      if (diff < 3600) return Math.floor(diff / 60) + 'm ago';
+      if (diff < 86400) return Math.floor(diff / 3600) + 'h ago';
+      if (diff < 604800) return Math.floor(diff / 86400) + 'd ago';
+      return d.toLocaleDateString();
+    }
+
+    function escapeHtml(str) {
+      const div = document.createElement('div');
+      div.textContent = str;
+      return div.innerHTML;
+    }
+
+    loadVideos();
+  </script>
+</body>
+</html>
