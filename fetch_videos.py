@@ -10,8 +10,21 @@ import json
 import time
 import os
 
-API_KEY = "AIzaSyABvOScTlMk8ycxeiBV84zQeXow3dTzITo"
-CHANNELS = ["garytalksstuff", "openai", "aliabdaal"]
+API_KEY = os.environ.get("YT_API_KEY") or "AIzaSyABvOScTlMk8ycxeiBV84zQeXow3dTzITo"
+CHANNELS = [
+    # Harness Engineering
+    "garytalksstuff",     # Chinese harness engineering, agent workflows
+    "Anthropic",          # Building Effective Agents, harness architecture
+    "latentspace",        # AI engineering podcast, agent systems
+    
+    # Practical AI Applications
+    "openai",             # Codex, agent control, practical demos
+    "karpathy",           # AI-native software, practical engineering
+    "aliabdaal",          # AI productivity workflows
+    "ycombinator",        # AI startup applications & tools
+    "Fireship",           # Quick practical AI/dev content
+    "mreflow",            # AI explained, agent frameworks
+]
 MAX_VIDEOS_PER_CHANNEL = 10
 
 def api_request(url):
