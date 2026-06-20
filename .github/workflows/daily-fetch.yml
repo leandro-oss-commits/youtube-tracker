@@ -1,0 +1,29 @@
+name: Daily YouTube Fetch
+
+on:
+  schedule:
+    - cron: '0 7 * * *'   # 每天 7:00 UTC
+  workflow_dispatch:       # 手动触发
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      
+      - name: Fetch YouTube data
+        env:
+          YT_API_KEY: ${{ secrets.YT_API_KEY }}
+        run: python3 fetch_videos.py
+      
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add videos.json
+          git diff --staged --quiet || (git commit -m "auto: update YouTube data $(date +%Y-%m-%d)" && git push)

@@ -1,12 +1,292 @@
 [
   {
+    "videoId": "7xTGNNLPyMI",
+    "title": "Deep Dive into LLMs like ChatGPT",
+    "publishedAt": "2025-02-05T18:23:47Z",
+    "thumbnail": "https://i.ytimg.com/vi/7xTGNNLPyMI/hqdefault.jpg",
+    "channelTitle": "Andrej Karpathy",
+    "viewCount": 7564418,
+    "likeCount": 121891,
+    "duration": "3:31:24"
+  },
+  {
+    "videoId": "kCc8FmEb1nY",
+    "title": "Let's build GPT: from scratch, in code, spelled out.",
+    "publishedAt": "2023-01-17T16:33:27Z",
+    "thumbnail": "https://i.ytimg.com/vi/kCc8FmEb1nY/hqdefault.jpg",
+    "channelTitle": "Andrej Karpathy",
+    "viewCount": 7387215,
+    "likeCount": 160792,
+    "duration": "1:56:20"
+  },
+  {
+    "videoId": "zjkBMFhNj_g",
+    "title": "[1hr Talk] Intro to Large Language Models",
+    "publishedAt": "2023-11-23T02:27:48Z",
+    "thumbnail": "https://i.ytimg.com/vi/zjkBMFhNj_g/hqdefault.jpg",
+    "channelTitle": "Andrej Karpathy",
+    "viewCount": 3782550,
+    "likeCount": 97762,
+    "duration": "59:48"
+  },
+  {
+    "videoId": "EWvNQjAaOHw",
+    "title": "How I use LLMs",
+    "publishedAt": "2025-02-27T22:29:56Z",
+    "thumbnail": "https://i.ytimg.com/vi/EWvNQjAaOHw/hqdefault.jpg",
+    "channelTitle": "Andrej Karpathy",
+    "viewCount": 2521447,
+    "likeCount": 64599,
+    "duration": "2:11:12"
+  },
+  {
+    "videoId": "zduSFxRajkE",
+    "title": "Let's build the GPT Tokenizer",
+    "publishedAt": "2024-02-20T17:11:35Z",
+    "thumbnail": "https://i.ytimg.com/vi/zduSFxRajkE/hqdefault.jpg",
+    "channelTitle": "Andrej Karpathy",
+    "viewCount": 1124063,
+    "likeCount": 27802,
+    "duration": "2:13:35"
+  },
+  {
+    "videoId": "l8pRSuU81PU",
+    "title": "Let's reproduce GPT-2 (124M)",
+    "publishedAt": "2024-06-09T23:31:35Z",
+    "thumbnail": "https://i.ytimg.com/vi/l8pRSuU81PU/hqdefault.jpg",
+    "channelTitle": "Andrej Karpathy",
+    "viewCount": 1103253,
+    "likeCount": 31408,
+    "duration": "4:01:26"
+  },
+  {
+    "videoId": "9OQ5vaYbGV0",
+    "title": "Google\u2019s AI endgame is here\u2026 everything you missed at I/O 2026",
+    "publishedAt": "2026-05-22T16:38:42Z",
+    "thumbnail": "https://i.ytimg.com/vi/9OQ5vaYbGV0/hqdefault.jpg",
+    "channelTitle": "Fireship",
+    "viewCount": 1054179,
+    "likeCount": 27006,
+    "duration": "5:44"
+  },
+  {
+    "videoId": "0pgCBV8CTZY",
+    "title": "Anthropic is starting to panic\u2026",
+    "publishedAt": "2026-06-09T17:32:30Z",
+    "thumbnail": "https://i.ytimg.com/vi/0pgCBV8CTZY/hqdefault.jpg",
+    "channelTitle": "Fireship",
+    "viewCount": 973845,
+    "likeCount": 32532,
+    "duration": "5:03"
+  },
+  {
+    "videoId": "ey_GaPdC9zk",
+    "title": "One man just liberated Fable... and now it\u2019s illegal",
+    "publishedAt": "2026-06-15T18:35:58Z",
+    "thumbnail": "https://i.ytimg.com/vi/ey_GaPdC9zk/hqdefault.jpg",
+    "channelTitle": "Fireship",
+    "viewCount": 948088,
+    "likeCount": 32324,
+    "duration": "5:14"
+  },
+  {
+    "videoId": "1PBRhm5ZnjU",
+    "title": "Anthropic begged the world to stop AI\u2026 then shipped this",
+    "publishedAt": "2026-06-11T17:17:48Z",
+    "thumbnail": "https://i.ytimg.com/vi/1PBRhm5ZnjU/hqdefault.jpg",
+    "channelTitle": "Fireship",
+    "viewCount": 805970,
+    "likeCount": 27105,
+    "duration": "5:09"
+  },
+  {
+    "videoId": "UAmKyyZ-b9E",
+    "title": "Introducing Cowork: Claude Code for the rest of your work",
+    "publishedAt": "2026-01-12T20:02:22Z",
+    "thumbnail": "https://i.ytimg.com/vi/UAmKyyZ-b9E/hqdefault.jpg",
+    "channelTitle": "Anthropic",
+    "viewCount": 755616,
+    "likeCount": 6847,
+    "duration": "1:09"
+  },
+  {
+    "videoId": "3tbB2dffx0s",
+    "title": "I can\u2019t believe this trial is real...",
+    "publishedAt": "2026-05-15T18:51:21Z",
+    "thumbnail": "https://i.ytimg.com/vi/3tbB2dffx0s/hqdefault.jpg",
+    "channelTitle": "Fireship",
+    "viewCount": 748997,
+    "likeCount": 23612,
+    "duration": "6:46"
+  },
+  {
+    "videoId": "Y9Wz2PV404E",
+    "title": "Introducing Claude Fable 5",
+    "publishedAt": "2026-06-09T17:00:05Z",
+    "thumbnail": "https://i.ytimg.com/vi/Y9Wz2PV404E/hqdefault.jpg",
+    "channelTitle": "Anthropic",
+    "viewCount": 704907,
+    "likeCount": 22826,
+    "duration": "1:54"
+  },
+  {
+    "videoId": "gwTQLZSIlsU",
+    "title": "A single PR just hijacked the NPM registry...",
+    "publishedAt": "2026-05-14T17:39:11Z",
+    "thumbnail": "https://i.ytimg.com/vi/gwTQLZSIlsU/hqdefault.jpg",
+    "channelTitle": "Fireship",
+    "viewCount": 575900,
+    "likeCount": 17898,
+    "duration": "6:16"
+  },
+  {
+    "videoId": "TCH_1BHY58I",
+    "title": "Building makemore Part 2: MLP",
+    "publishedAt": "2022-09-12T14:43:06Z",
+    "thumbnail": "https://i.ytimg.com/vi/TCH_1BHY58I/hqdefault.jpg",
+    "channelTitle": "Andrej Karpathy",
+    "viewCount": 551642,
+    "likeCount": 9154,
+    "duration": "1:15:40"
+  },
+  {
+    "videoId": "qPuzWFvRajk",
+    "title": "10 weird OSS projects you need right now...",
+    "publishedAt": "2026-05-26T17:53:11Z",
+    "thumbnail": "https://i.ytimg.com/vi/qPuzWFvRajk/hqdefault.jpg",
+    "channelTitle": "Fireship",
+    "viewCount": 542077,
+    "likeCount": 22712,
+    "duration": "7:03"
+  },
+  {
+    "videoId": "P6sfmUTpUmc",
+    "title": "Building makemore Part 3: Activations & Gradients, BatchNorm",
+    "publishedAt": "2022-10-04T16:41:03Z",
+    "thumbnail": "https://i.ytimg.com/vi/P6sfmUTpUmc/hqdefault.jpg",
+    "channelTitle": "Andrej Karpathy",
+    "viewCount": 513440,
+    "likeCount": 8660,
+    "duration": "1:55:58"
+  },
+  {
+    "videoId": "ML3q7Ok4hJg",
+    "title": "I read every major CS paper of the last 100 years...",
+    "publishedAt": "2026-06-17T16:29:01Z",
+    "thumbnail": "https://i.ytimg.com/vi/ML3q7Ok4hJg/hqdefault.jpg",
+    "channelTitle": "Fireship",
+    "viewCount": 484586,
+    "likeCount": 33933,
+    "duration": "10:12"
+  },
+  {
+    "videoId": "INGOC6-LLv0",
+    "title": "An initiative to secure the world's software | Project Glasswing",
+    "publishedAt": "2026-04-07T18:03:51Z",
+    "thumbnail": "https://i.ytimg.com/vi/INGOC6-LLv0/hqdefault.jpg",
+    "channelTitle": "Anthropic",
+    "viewCount": 412561,
+    "likeCount": 13100,
+    "duration": "5:49"
+  },
+  {
+    "videoId": "dPn3GBI8lII",
+    "title": "Introducing Claude Opus 4.6",
+    "publishedAt": "2026-02-05T17:45:22Z",
+    "thumbnail": "https://i.ytimg.com/vi/dPn3GBI8lII/hqdefault.jpg",
+    "channelTitle": "Anthropic",
+    "viewCount": 384474,
+    "likeCount": 6632,
+    "duration": "0:40"
+  },
+  {
+    "videoId": "q8SA3rM6ckI",
+    "title": "Building makemore Part 4: Becoming a Backprop Ninja",
+    "publishedAt": "2022-10-11T17:56:19Z",
+    "thumbnail": "https://i.ytimg.com/vi/q8SA3rM6ckI/hqdefault.jpg",
+    "channelTitle": "Andrej Karpathy",
+    "viewCount": 351568,
+    "likeCount": 5733,
+    "duration": "1:55:24"
+  },
+  {
+    "videoId": "JfPWbttemYE",
+    "title": "The forgotten developer who saved JavaScript...",
+    "publishedAt": "2026-05-29T17:06:48Z",
+    "thumbnail": "https://i.ytimg.com/vi/JfPWbttemYE/hqdefault.jpg",
+    "channelTitle": "Fireship",
+    "viewCount": 313361,
+    "likeCount": 13969,
+    "duration": "6:29"
+  },
+  {
+    "videoId": "D4XTefP3Lsc",
+    "title": "When AIs act emotional",
+    "publishedAt": "2026-04-02T16:06:59Z",
+    "thumbnail": "https://i.ytimg.com/vi/D4XTefP3Lsc/hqdefault.jpg",
+    "channelTitle": "Anthropic",
+    "viewCount": 295165,
+    "likeCount": 17425,
+    "duration": "4:53"
+  },
+  {
+    "videoId": "t3YJ5hKiMQ0",
+    "title": "Building makemore Part 5: Building a WaveNet",
+    "publishedAt": "2022-11-21T00:32:48Z",
+    "thumbnail": "https://i.ytimg.com/vi/t3YJ5hKiMQ0/hqdefault.jpg",
+    "channelTitle": "Andrej Karpathy",
+    "viewCount": 279610,
+    "likeCount": 4694,
+    "duration": "56:22"
+  },
+  {
+    "videoId": "Sntj4HmuykI",
+    "title": "The most trusted code on Earth is being rewritten in Rust",
+    "publishedAt": "2026-06-19T17:24:47Z",
+    "thumbnail": "https://i.ytimg.com/vi/Sntj4HmuykI/hqdefault.jpg",
+    "channelTitle": "Fireship",
+    "viewCount": 231739,
+    "likeCount": 12636,
+    "duration": "5:20"
+  },
+  {
+    "videoId": "bluAmTHoEow",
+    "title": "Your tools are now interactive in Claude",
+    "publishedAt": "2026-01-26T19:06:25Z",
+    "thumbnail": "https://i.ytimg.com/vi/bluAmTHoEow/hqdefault.jpg",
+    "channelTitle": "Anthropic",
+    "viewCount": 160970,
+    "likeCount": 2597,
+    "duration": "0:54"
+  },
+  {
+    "videoId": "Qy25rSEXpPQ",
+    "title": "Midjourney Built What?!?",
+    "publishedAt": "2026-06-18T04:32:28Z",
+    "thumbnail": "https://i.ytimg.com/vi/Qy25rSEXpPQ/hqdefault.jpg",
+    "channelTitle": "Matt Wolfe",
+    "viewCount": 147649,
+    "likeCount": 8685,
+    "duration": "1:37"
+  },
+  {
+    "videoId": "j2knrqAzYVY",
+    "title": "Translating Claude\u2019s thoughts into language",
+    "publishedAt": "2026-05-07T17:01:21Z",
+    "thumbnail": "https://i.ytimg.com/vi/j2knrqAzYVY/hqdefault.jpg",
+    "channelTitle": "Anthropic",
+    "viewCount": 137700,
+    "likeCount": 7561,
+    "duration": "3:17"
+  },
+  {
     "videoId": "u9zLlcsCDiQ",
     "title": "Build and test iOS apps without leaving Codex",
     "publishedAt": "2026-06-15T23:20:32Z",
     "thumbnail": "https://i.ytimg.com/vi/u9zLlcsCDiQ/hqdefault.jpg",
     "channelTitle": "OpenAI",
-    "viewCount": 137033,
-    "likeCount": 4057,
+    "viewCount": 137138,
+    "likeCount": 4059,
     "duration": "0:42"
   },
   {
@@ -15,9 +295,19 @@
     "publishedAt": "2026-05-24T13:53:18Z",
     "thumbnail": "https://i.ytimg.com/vi/PpeCur6fEXc/hqdefault.jpg",
     "channelTitle": "Gary Chen",
-    "viewCount": 122508,
+    "viewCount": 122527,
     "likeCount": 3900,
     "duration": "15:59"
+  },
+  {
+    "videoId": "nydHKXjwu0U",
+    "title": "AI News: An INSANE Week\u2026 Here\u2019s What Matters",
+    "publishedAt": "2026-06-12T15:00:18Z",
+    "thumbnail": "https://i.ytimg.com/vi/nydHKXjwu0U/hqdefault.jpg",
+    "channelTitle": "Matt Wolfe",
+    "viewCount": 95352,
+    "likeCount": 2866,
+    "duration": "30:52"
   },
   {
     "videoId": "ZK3JhU73W18",
@@ -25,9 +315,29 @@
     "publishedAt": "2026-06-18T18:57:34Z",
     "thumbnail": "https://i.ytimg.com/vi/ZK3JhU73W18/hqdefault.jpg",
     "channelTitle": "OpenAI",
-    "viewCount": 81852,
-    "likeCount": 3963,
+    "viewCount": 82366,
+    "likeCount": 3981,
     "duration": "2:05"
+  },
+  {
+    "videoId": "3rWSvrFahIY",
+    "title": "Self-Play for LLMs, AI for Biology, Formal Verification, and More | YC Paper Club",
+    "publishedAt": "2026-06-12T14:00:20Z",
+    "thumbnail": "https://i.ytimg.com/vi/3rWSvrFahIY/hqdefault.jpg",
+    "channelTitle": "Y Combinator",
+    "viewCount": 81282,
+    "likeCount": 2592,
+    "duration": "1:16:55"
+  },
+  {
+    "videoId": "2lE1-5hBfKk",
+    "title": "Why Everyone Is Freaking Out About Fable 5 (Mythos)",
+    "publishedAt": "2026-06-11T01:34:23Z",
+    "thumbnail": "https://i.ytimg.com/vi/2lE1-5hBfKk/hqdefault.jpg",
+    "channelTitle": "Matt Wolfe",
+    "viewCount": 67787,
+    "likeCount": 2432,
+    "duration": "20:45"
   },
   {
     "videoId": "xFPiU5sit7g",
@@ -35,8 +345,8 @@
     "publishedAt": "2026-06-14T10:00:16Z",
     "thumbnail": "https://i.ytimg.com/vi/xFPiU5sit7g/hqdefault.jpg",
     "channelTitle": "Gary Chen",
-    "viewCount": 64274,
-    "likeCount": 2740,
+    "viewCount": 64359,
+    "likeCount": 2743,
     "duration": "17:57"
   },
   {
@@ -45,9 +355,19 @@
     "publishedAt": "2026-05-21T07:02:12Z",
     "thumbnail": "https://i.ytimg.com/vi/BhHMGRcbPkQ/hqdefault.jpg",
     "channelTitle": "Gary Chen",
-    "viewCount": 62952,
+    "viewCount": 62954,
     "likeCount": 2567,
     "duration": "13:27"
+  },
+  {
+    "videoId": "kYJO0y8fVTA",
+    "title": "Claude on Mars",
+    "publishedAt": "2026-01-30T19:09:11Z",
+    "thumbnail": "https://i.ytimg.com/vi/kYJO0y8fVTA/hqdefault.jpg",
+    "channelTitle": "Anthropic",
+    "viewCount": 56550,
+    "likeCount": 1734,
+    "duration": "0:30"
   },
   {
     "videoId": "Yzpx4Xaigms",
@@ -55,9 +375,69 @@
     "publishedAt": "2026-05-31T04:00:30Z",
     "thumbnail": "https://i.ytimg.com/vi/Yzpx4Xaigms/hqdefault.jpg",
     "channelTitle": "Gary Chen",
-    "viewCount": 50662,
-    "likeCount": 2039,
+    "viewCount": 50682,
+    "likeCount": 2040,
     "duration": "21:40"
+  },
+  {
+    "videoId": "Db260rUuKJg",
+    "title": "AI News: Fable Banned, New Open-Source Leader, Midjourney Shocker",
+    "publishedAt": "2026-06-19T15:00:23Z",
+    "thumbnail": "https://i.ytimg.com/vi/Db260rUuKJg/hqdefault.jpg",
+    "channelTitle": "Matt Wolfe",
+    "viewCount": 49635,
+    "likeCount": 2027,
+    "duration": "35:44"
+  },
+  {
+    "videoId": "ywS7Ytkx3A0",
+    "title": "We just launched Paxel!",
+    "publishedAt": "2026-06-05T19:52:39Z",
+    "thumbnail": "https://i.ytimg.com/vi/ywS7Ytkx3A0/hqdefault.jpg",
+    "channelTitle": "Y Combinator",
+    "viewCount": 47256,
+    "likeCount": 1970,
+    "duration": "2:04"
+  },
+  {
+    "videoId": "_7BHqZayPOc",
+    "title": "PewDiePie\u2019s FREE Odysseus AI (Full Review & Setup)",
+    "publishedAt": "2026-06-17T16:12:43Z",
+    "thumbnail": "https://i.ytimg.com/vi/_7BHqZayPOc/hqdefault.jpg",
+    "channelTitle": "Matt Wolfe",
+    "viewCount": 41640,
+    "likeCount": 1235,
+    "duration": "31:47"
+  },
+  {
+    "videoId": "mPAHvz8kW24",
+    "title": "The Most AI-Pilled CEO We Know",
+    "publishedAt": "2026-06-10T14:30:40Z",
+    "thumbnail": "https://i.ytimg.com/vi/mPAHvz8kW24/hqdefault.jpg",
+    "channelTitle": "Y Combinator",
+    "viewCount": 40127,
+    "likeCount": 823,
+    "duration": "54:07"
+  },
+  {
+    "videoId": "R56RJFZBasQ",
+    "title": "Pick One Idea and Go Deep",
+    "publishedAt": "2026-06-17T14:00:15Z",
+    "thumbnail": "https://i.ytimg.com/vi/R56RJFZBasQ/hqdefault.jpg",
+    "channelTitle": "Y Combinator",
+    "viewCount": 38310,
+    "likeCount": 1823,
+    "duration": "11:31"
+  },
+  {
+    "videoId": "N5yJJA0NCU0",
+    "title": "AI on campus",
+    "publishedAt": "2026-01-12T22:41:27Z",
+    "thumbnail": "https://i.ytimg.com/vi/N5yJJA0NCU0/hqdefault.jpg",
+    "channelTitle": "Anthropic",
+    "viewCount": 36813,
+    "likeCount": 785,
+    "duration": "38:48"
   },
   {
     "videoId": "_RD3iFDhuzs",
@@ -80,12 +460,22 @@
     "duration": "1:39"
   },
   {
+    "videoId": "8OOuCnZB-4o",
+    "title": "The Age Of The 40-Year-Old Solo Founder Is Here",
+    "publishedAt": "2026-06-19T14:00:26Z",
+    "thumbnail": "https://i.ytimg.com/vi/8OOuCnZB-4o/hqdefault.jpg",
+    "channelTitle": "Y Combinator",
+    "viewCount": 28566,
+    "likeCount": 752,
+    "duration": "42:43"
+  },
+  {
     "videoId": "0j3SW7R40SU",
     "title": "How to Quit Your Job (and Find Work You Actually Love)",
     "publishedAt": "2026-06-11T15:30:25Z",
     "thumbnail": "https://i.ytimg.com/vi/0j3SW7R40SU/hqdefault.jpg",
     "channelTitle": "Ali Abdaal",
-    "viewCount": 26760,
+    "viewCount": 26778,
     "likeCount": 691,
     "duration": "1:17:35"
   },
@@ -95,8 +485,8 @@
     "publishedAt": "2026-06-18T14:00:24Z",
     "thumbnail": "https://i.ytimg.com/vi/7IeFVWJXp7E/hqdefault.jpg",
     "channelTitle": "Ali Abdaal",
-    "viewCount": 26587,
-    "likeCount": 1035,
+    "viewCount": 26702,
+    "likeCount": 1038,
     "duration": "14:36"
   },
   {
@@ -105,7 +495,7 @@
     "publishedAt": "2026-06-17T10:00:12Z",
     "thumbnail": "https://i.ytimg.com/vi/g-MIUNhb9cY/hqdefault.jpg",
     "channelTitle": "Ali Abdaal",
-    "viewCount": 26074,
+    "viewCount": 26161,
     "likeCount": 1639,
     "duration": "2:05"
   },
@@ -118,6 +508,26 @@
     "viewCount": 25181,
     "likeCount": 808,
     "duration": "1:22"
+  },
+  {
+    "videoId": "mM9TY91FECI",
+    "title": "AI's limited self-knowledge",
+    "publishedAt": "2026-01-08T16:07:44Z",
+    "thumbnail": "https://i.ytimg.com/vi/mM9TY91FECI/hqdefault.jpg",
+    "channelTitle": "Anthropic",
+    "viewCount": 23698,
+    "likeCount": 747,
+    "duration": "1:00"
+  },
+  {
+    "videoId": "yyXCQHX55N4",
+    "title": "Emergent: How Six Months of Tinkering Led To A $100M ARR Company",
+    "publishedAt": "2026-06-06T12:30:10Z",
+    "thumbnail": "https://i.ytimg.com/vi/yyXCQHX55N4/hqdefault.jpg",
+    "channelTitle": "Y Combinator",
+    "viewCount": 21065,
+    "likeCount": 453,
+    "duration": "29:05"
   },
   {
     "videoId": "4fpZhuJuIls",
@@ -135,9 +545,29 @@
     "publishedAt": "2026-05-13T15:01:55Z",
     "thumbnail": "https://i.ytimg.com/vi/QHHTcYBEIEo/hqdefault.jpg",
     "channelTitle": "Gary Chen",
-    "viewCount": 18397,
+    "viewCount": 18398,
     "likeCount": 622,
     "duration": "15:40"
+  },
+  {
+    "videoId": "qr6kVSKqBqo",
+    "title": "Startup School is back!",
+    "publishedAt": "2026-06-08T22:21:00Z",
+    "thumbnail": "https://i.ytimg.com/vi/qr6kVSKqBqo/hqdefault.jpg",
+    "channelTitle": "Y Combinator",
+    "viewCount": 17444,
+    "likeCount": 564,
+    "duration": "1:38"
+  },
+  {
+    "videoId": "mjmswQurIU4",
+    "title": "How Legora Went From YC to $100M ARR in 18 Months",
+    "publishedAt": "2026-06-05T14:30:09Z",
+    "thumbnail": "https://i.ytimg.com/vi/mjmswQurIU4/hqdefault.jpg",
+    "channelTitle": "Y Combinator",
+    "viewCount": 16397,
+    "likeCount": 323,
+    "duration": "22:47"
   },
   {
     "videoId": "KNP9Mr1rUQY",
@@ -155,7 +585,7 @@
     "publishedAt": "2026-06-16T17:00:02Z",
     "thumbnail": "https://i.ytimg.com/vi/CFqjjKp9Y-Q/hqdefault.jpg",
     "channelTitle": "OpenAI",
-    "viewCount": 14403,
+    "viewCount": 14419,
     "likeCount": 418,
     "duration": "44:23"
   },
@@ -170,14 +600,54 @@
     "duration": "0:32"
   },
   {
+    "videoId": "49L8lVe_PVo",
+    "title": "How Meesho Became India\u2019s Biggest Shopping App",
+    "publishedAt": "2026-06-11T12:30:23Z",
+    "thumbnail": "https://i.ytimg.com/vi/49L8lVe_PVo/hqdefault.jpg",
+    "channelTitle": "Y Combinator",
+    "viewCount": 12235,
+    "likeCount": 343,
+    "duration": "30:21"
+  },
+  {
+    "videoId": "QzDCfJpVGN8",
+    "title": "Shopping Online Is About To Change Forever",
+    "publishedAt": "2026-06-08T19:59:05Z",
+    "thumbnail": "https://i.ytimg.com/vi/QzDCfJpVGN8/hqdefault.jpg",
+    "channelTitle": "Matt Wolfe",
+    "viewCount": 12144,
+    "likeCount": 501,
+    "duration": "1:44"
+  },
+  {
+    "videoId": "jPtQlILfkhA",
+    "title": "Inside xAI: Building Grok Imagine in 3 Months, Videogen vs World Models, and Video Agents\u2014 Ethan He",
+    "publishedAt": "2026-06-01T15:42:33Z",
+    "thumbnail": "https://i.ytimg.com/vi/jPtQlILfkhA/hqdefault.jpg",
+    "channelTitle": "Latent Space",
+    "viewCount": 11081,
+    "likeCount": 286,
+    "duration": "1:44:43"
+  },
+  {
     "videoId": "e6EQb-rYIig",
     "title": "Public Speaking Practice: Excellence vs Perfection",
     "publishedAt": "2026-06-15T10:00:10Z",
     "thumbnail": "https://i.ytimg.com/vi/e6EQb-rYIig/hqdefault.jpg",
     "channelTitle": "Ali Abdaal",
-    "viewCount": 10306,
+    "viewCount": 10309,
     "likeCount": 386,
     "duration": "1:15"
+  },
+  {
+    "videoId": "NQof8hG8FwE",
+    "title": "The Most Insane iPhone AI Features",
+    "publishedAt": "2026-06-15T23:35:04Z",
+    "thumbnail": "https://i.ytimg.com/vi/NQof8hG8FwE/hqdefault.jpg",
+    "channelTitle": "Matt Wolfe",
+    "viewCount": 10293,
+    "likeCount": 289,
+    "duration": "1:48"
   },
   {
     "videoId": "UxY8zJKRrHU",
@@ -185,8 +655,8 @@
     "publishedAt": "2026-06-18T19:10:18Z",
     "thumbnail": "https://i.ytimg.com/vi/UxY8zJKRrHU/hqdefault.jpg",
     "channelTitle": "OpenAI",
-    "viewCount": 10087,
-    "likeCount": 428,
+    "viewCount": 10130,
+    "likeCount": 427,
     "duration": "2:52"
   },
   {
@@ -195,7 +665,7 @@
     "publishedAt": "2026-06-17T18:01:46Z",
     "thumbnail": "https://i.ytimg.com/vi/rOLKQJMLBHI/hqdefault.jpg",
     "channelTitle": "OpenAI",
-    "viewCount": 9938,
+    "viewCount": 9996,
     "likeCount": 322,
     "duration": "0:42"
   },
@@ -210,14 +680,34 @@
     "duration": "1:12"
   },
   {
+    "videoId": "1greFablcZY",
+    "title": "Unpopular opinion: you don't need to ask ChatGPT everything",
+    "publishedAt": "2026-06-11T12:55:30Z",
+    "thumbnail": "https://i.ytimg.com/vi/1greFablcZY/hqdefault.jpg",
+    "channelTitle": "Matt Wolfe",
+    "viewCount": 9566,
+    "likeCount": 333,
+    "duration": "1:14"
+  },
+  {
     "videoId": "ZGOljd36T50",
     "title": "A hot take about necessity",
     "publishedAt": "2026-06-19T10:00:39Z",
     "thumbnail": "https://i.ytimg.com/vi/ZGOljd36T50/hqdefault.jpg",
     "channelTitle": "Ali Abdaal",
-    "viewCount": 9257,
-    "likeCount": 535,
+    "viewCount": 9334,
+    "likeCount": 536,
     "duration": "1:40"
+  },
+  {
+    "videoId": "cFNI2FORAc0",
+    "title": "Satya Nadella on AI: @NoPriorsPodcast  x Latent Space Crossover Special at Microsoft Build 2026",
+    "publishedAt": "2026-06-03T11:40:52Z",
+    "thumbnail": "https://i.ytimg.com/vi/cFNI2FORAc0/hqdefault.jpg",
+    "channelTitle": "Latent Space",
+    "viewCount": 7902,
+    "likeCount": 126,
+    "duration": "41:27"
   },
   {
     "videoId": "_jNbM8pV9oI",
@@ -245,9 +735,29 @@
     "publishedAt": "2026-06-19T21:22:26Z",
     "thumbnail": "https://i.ytimg.com/vi/YPNOjXTDP9c/hqdefault.jpg",
     "channelTitle": "OpenAI",
-    "viewCount": 6640,
-    "likeCount": 189,
+    "viewCount": 6715,
+    "likeCount": 190,
     "duration": "0:31"
+  },
+  {
+    "videoId": "ObBAxL2dFzw",
+    "title": "Groww: If Your Customers Don't Love It or Hate It, You've Already Lost",
+    "publishedAt": "2026-06-15T12:30:28Z",
+    "thumbnail": "https://i.ytimg.com/vi/ObBAxL2dFzw/hqdefault.jpg",
+    "channelTitle": "Y Combinator",
+    "viewCount": 6669,
+    "likeCount": 179,
+    "duration": "30:11"
+  },
+  {
+    "videoId": "X9cvCQ3qrVk",
+    "title": "GitHub Just Made a Big AI Coding Move",
+    "publishedAt": "2026-06-10T14:11:43Z",
+    "thumbnail": "https://i.ytimg.com/vi/X9cvCQ3qrVk/hqdefault.jpg",
+    "channelTitle": "Matt Wolfe",
+    "viewCount": 6472,
+    "likeCount": 149,
+    "duration": "1:08"
   },
   {
     "videoId": "TDM2Dz_MuPk",
@@ -255,7 +765,7 @@
     "publishedAt": "2026-06-15T18:02:23Z",
     "thumbnail": "https://i.ytimg.com/vi/TDM2Dz_MuPk/hqdefault.jpg",
     "channelTitle": "OpenAI",
-    "viewCount": 6006,
+    "viewCount": 6033,
     "likeCount": 149,
     "duration": "0:50"
   },
@@ -265,9 +775,29 @@
     "publishedAt": "2026-06-19T21:20:04Z",
     "thumbnail": "https://i.ytimg.com/vi/5sDfhQq_g8A/hqdefault.jpg",
     "channelTitle": "OpenAI",
-    "viewCount": 5555,
+    "viewCount": 5589,
     "likeCount": 146,
     "duration": "0:31"
+  },
+  {
+    "videoId": "0fgJPhYcbVk",
+    "title": "Devin\u2019s 80% Moment: Background Agents, 7x PRs, & End of Hand-Held Coding \u2014 Walden Yan & Cole Murray",
+    "publishedAt": "2026-05-28T17:57:06Z",
+    "thumbnail": "https://i.ytimg.com/vi/0fgJPhYcbVk/hqdefault.jpg",
+    "channelTitle": "Latent Space",
+    "viewCount": 5568,
+    "likeCount": 123,
+    "duration": "1:09:33"
+  },
+  {
+    "videoId": "wg9jm_d7Emk",
+    "title": "THIS was the whole point of Microsoft Builld",
+    "publishedAt": "2026-06-09T12:49:35Z",
+    "thumbnail": "https://i.ytimg.com/vi/wg9jm_d7Emk/hqdefault.jpg",
+    "channelTitle": "Matt Wolfe",
+    "viewCount": 4903,
+    "likeCount": 88,
+    "duration": "1:03"
   },
   {
     "videoId": "L5LLzXrKFIY",
@@ -280,14 +810,54 @@
     "duration": "14:50"
   },
   {
+    "videoId": "h5dlIPM0X18",
+    "title": "Why AI Labs With Unlimited GPUs Still Fail \u2014 Anjney Midha, AMP",
+    "publishedAt": "2026-06-18T17:25:22Z",
+    "thumbnail": "https://i.ytimg.com/vi/h5dlIPM0X18/hqdefault.jpg",
+    "channelTitle": "Latent Space",
+    "viewCount": 4456,
+    "likeCount": 154,
+    "duration": "1:00:37"
+  },
+  {
     "videoId": "kV2HSEUypzM",
     "title": "How to Trick Your Brain Into Spending Less",
     "publishedAt": "2026-06-20T10:00:17Z",
     "thumbnail": "https://i.ytimg.com/vi/kV2HSEUypzM/hqdefault.jpg",
     "channelTitle": "Ali Abdaal",
-    "viewCount": 4159,
-    "likeCount": 259,
+    "viewCount": 4275,
+    "likeCount": 260,
     "duration": "1:17"
+  },
+  {
+    "videoId": "XdevS0GSuiQ",
+    "title": "\ud83d\udd2c The Bitter Lesson is Coming for Proteins - Alex Rives, BioHub",
+    "publishedAt": "2026-05-27T17:32:38Z",
+    "thumbnail": "https://i.ytimg.com/vi/XdevS0GSuiQ/hqdefault.jpg",
+    "channelTitle": "Latent Space",
+    "viewCount": 4236,
+    "likeCount": 115,
+    "duration": "1:10:12"
+  },
+  {
+    "videoId": "abYcV5LHMG4",
+    "title": "Scaling Past Informal AI - Carina Hong, Axiom Math",
+    "publishedAt": "2026-06-03T19:11:22Z",
+    "thumbnail": "https://i.ytimg.com/vi/abYcV5LHMG4/hqdefault.jpg",
+    "channelTitle": "Latent Space",
+    "viewCount": 4228,
+    "likeCount": 98,
+    "duration": "1:33:04"
+  },
+  {
+    "videoId": "-rIAVuaRjOg",
+    "title": "\u26a1\ufe0fMaking DeepSeek v4 outperform Opus 4.7 with Taste \u2014 @AhmadAwais , CommandCode.ai",
+    "publishedAt": "2026-06-06T04:30:44Z",
+    "thumbnail": "https://i.ytimg.com/vi/-rIAVuaRjOg/hqdefault.jpg",
+    "channelTitle": "Latent Space",
+    "viewCount": 4184,
+    "likeCount": 77,
+    "duration": "40:41"
   },
   {
     "videoId": "0JIbgZ544wU",
@@ -295,8 +865,38 @@
     "publishedAt": "2026-06-19T22:57:58Z",
     "thumbnail": "https://i.ytimg.com/vi/0JIbgZ544wU/hqdefault.jpg",
     "channelTitle": "OpenAI",
-    "viewCount": 3591,
+    "viewCount": 3623,
     "likeCount": 97,
     "duration": "0:51"
+  },
+  {
+    "videoId": "T8u7wOXhDb0",
+    "title": "When AI Agents Run Businesses \u2014 Lukas Petersson and Axel Backlund of Andon Labs",
+    "publishedAt": "2026-06-04T20:03:44Z",
+    "thumbnail": "https://i.ytimg.com/vi/T8u7wOXhDb0/hqdefault.jpg",
+    "channelTitle": "Latent Space",
+    "viewCount": 3210,
+    "likeCount": 81,
+    "duration": "1:17:57"
+  },
+  {
+    "videoId": "LEwlSyR0cXA",
+    "title": "GitHub\u2019s Agent Era: 14x Commits, 200M Developers, Copilot\u2019s Next Act \u2014 Kyle Daigle",
+    "publishedAt": "2026-06-02T16:28:30Z",
+    "thumbnail": "https://i.ytimg.com/vi/LEwlSyR0cXA/hqdefault.jpg",
+    "channelTitle": "Latent Space",
+    "viewCount": 2640,
+    "likeCount": 43,
+    "duration": "1:24:44"
+  },
+  {
+    "videoId": "4-sWFytOfRw",
+    "title": "\ud83d\udd2c The Limits of AI in Science - Why We Need Self-Driving Labs \u2014 Joseph Krause, Radical AI",
+    "publishedAt": "2026-06-17T17:28:06Z",
+    "thumbnail": "https://i.ytimg.com/vi/4-sWFytOfRw/hqdefault.jpg",
+    "channelTitle": "Latent Space",
+    "viewCount": 1530,
+    "likeCount": 34,
+    "duration": "1:16:50"
   }
 ]
