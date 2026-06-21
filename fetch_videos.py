@@ -27,6 +27,7 @@ CHANNELS = [
     "TechWhistleHub",     # <1K subs — harness engineering deep dives, agent memory mechanisms
     "indydevdan",         # Claude Code agentic coding, practical builds
     "cognitiverevolution", # AI builder interviews, agent engineering conversations
+    "TonbisAIGarage",     # AI garage, practical builds and experiments
 ]
 MAX_VIDEOS_PER_CHANNEL = 10
 
