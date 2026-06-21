@@ -12,18 +12,21 @@ import os
 
 API_KEY = os.environ.get("YT_API_KEY") or "AIzaSyABvOScTlMk8ycxeiBV84zQeXow3dTzITo"
 CHANNELS = [
-    # Harness Engineering
+    # 🏆 Industry Leaders - High viewership, recognized authorities
     "garytalksstuff",     # Chinese harness engineering, agent workflows
     "Anthropic",          # Building Effective Agents, harness architecture
     "latentspace",        # AI engineering podcast, agent systems
-    
-    # Practical AI Applications
     "openai",             # Codex, agent control, practical demos
     "karpathy",           # AI-native software, practical engineering
     "aliabdaal",          # AI productivity workflows
     "ycombinator",        # AI startup applications & tools
     "Fireship",           # Quick practical AI/dev content
     "mreflow",            # AI explained, agent frameworks
+    
+    # 💎 Hidden Treasures - Small subscriber counts, high signal-to-noise
+    "TechWhistleHub",     # <1K subs — harness engineering deep dives, agent memory mechanisms
+    "indydevdan",         # Claude Code agentic coding, practical builds
+    "cognitiverevolution", # AI builder interviews, agent engineering conversations
 ]
 MAX_VIDEOS_PER_CHANNEL = 10
 
