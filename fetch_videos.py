@@ -104,6 +104,8 @@ def parse_duration(duration_str):
         return f"{m}:{s:02d}"
 
 def main():
+    import datetime
+    cutoff = datetime.datetime.now(datetime.timezone.utc) - datetime.timedelta(days=30)
     all_videos = []
     
     for channel_name in CHANNELS:
@@ -133,7 +135,10 @@ def main():
             v["viewCount"] = stat["viewCount"]
             v["likeCount"] = stat["likeCount"]
             v["duration"] = parse_duration(stat["duration"])
-            all_videos.append(v)
+            # 跳过超过 30 天的视频
+            published = datetime.datetime.fromisoformat(v["publishedAt"].replace("Z", "+00:00"))
+            if published >= cutoff:
+                all_videos.append(v)
         
         print(f"  Fetched {len(videos)} videos")
         time.sleep(0.5)  # Rate limiting

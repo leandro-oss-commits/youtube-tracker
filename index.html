@@ -161,12 +161,17 @@
   <script>
     async function loadVideos() {
       const resp = await fetch('videos.json');
-      const videos = await resp.json();
+      let videos = await resp.json();
+
+      // 客户端侧过滤：只显示 30 天以内的视频
+      const cutoff = new Date();
+      cutoff.setDate(cutoff.getDate() - 30);
+      videos = videos.filter(v => new Date(v.publishedAt) >= cutoff);
 
       // Update subtitle
       const channels = [...new Set(videos.map(v => v.channelTitle))];
       document.getElementById('subtitle').textContent =
-        `Tracking ${channels.length} channels · ${videos.length} videos`;
+        `Tracking ${channels.length} channels · ${videos.length} videos · Last 30 days`;
 
       // Stats bar
       const totalViews = videos.reduce((sum, v) => sum + v.viewCount, 0);
