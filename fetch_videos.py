@@ -28,6 +28,17 @@ CHANNELS = [
     "indydevdan",         # Claude Code agentic coding, practical builds
     "cognitiverevolution", # AI builder interviews, agent engineering conversations
     "TonbisAIGarage",     # AI garage, practical builds and experiments
+
+    # 🆕 Added 2026-06-28 from 知乎推荐「普通人学AI建议死磕的10个油管博主」
+    "jeffsu",             # AI生产力天花板 — ChatGPT实战、AI办公效率、Prompt技巧
+    "TinaHuang1",         # 最适合普通人的AI学姐 — AI Agent、数据科学、AI职业规划
+    "IBMTechnology",      # AI知识百科全书 — RAG、Agent、Transformer、向量数据库
+    "googlecloudtech",    # Google官方AI课堂 — Gemini, Vertex AI, NotebookLM
+    "daveebbelaar",       # AI Agent实战派 — AI系统工程、Agent开发、LangChain
+    "deeplearningai",     # 吴恩达的AI学校 — Prompt Engineering、AI Agent、LangChain、RAG
+    "aiexplained-official", # 前沿AI解读第一梯队 — GPT, Claude, Gemini, AGI
+    "TwoMinutePapers",    # AI圈快乐源泉 — AI论文、视频生成、机器人、科研突破
+    "AlexFinnOfficial",   # Vibe Coding入门必看 — Cursor, Claude Code, AI编程
 ]
 MAX_VIDEOS_PER_CHANNEL = 10
 
