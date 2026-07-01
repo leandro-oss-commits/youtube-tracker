@@ -7,6 +7,7 @@ Uses YouTube Data API v3
 import urllib.request
 import urllib.parse
 import json
+import ssl
 import time
 import os
 
@@ -45,8 +46,19 @@ MAX_VIDEOS_PER_CHANNEL = 10
 def api_request(url):
     """Make a GET request to the YouTube API and return parsed JSON."""
     req = urllib.request.Request(url, headers={"User-Agent": "YouTubeTracker/1.0"})
-    with urllib.request.urlopen(req) as resp:
-        return json.loads(resp.read().decode())
+    # Use TLS 1.2+ for compatibility with older LibreSSL (macOS system Python)
+    ctx = ssl.create_default_context()
+    ctx.minimum_version = ssl.TLSVersion.TLSv1_2
+    # Retry once on SSL/connection errors
+    for attempt in range(2):
+        try:
+            with urllib.request.urlopen(req, context=ctx, timeout=30) as resp:
+                return json.loads(resp.read().decode())
+        except (urllib.error.URLError, ConnectionResetError, ssl.SSLEOFError) as e:
+            if attempt == 1:
+                raise
+            print(f"  [RETRY] {e}, retrying...")
+            time.sleep(2)
 
 def get_channel_info(channel_name):
     """Search for a channel by name and return its ID and title."""
@@ -118,29 +130,33 @@ def parse_duration(duration_str):
 def main():
     import datetime
     cutoff = datetime.datetime.now(datetime.timezone.utc) - datetime.timedelta(days=30)
-    all_videos = []
+    all_videos = {}
     
     for channel_name in CHANNELS:
-        print(f"Fetching channel: {channel_name}...")
-        channel_id, display_name = get_channel_info(channel_name)
-        if not channel_id:
+        try:
+            print(f"Fetching channel: {channel_name}...")
+            channel_id, display_name = get_channel_info(channel_name)
+            if not channel_id:
+                continue
+
+            print(f"  Channel ID: {channel_id} ({display_name})")
+            playlist_id = get_uploads_playlist(channel_id)
+            if not playlist_id:
+                print(f"  [WARN] No uploads playlist for {channel_name}")
+                continue
+
+            videos = get_playlist_videos(playlist_id)
+            if not videos:
+                print(f"  [WARN] No videos found for {channel_name}")
+                continue
+
+            # Get stats for all videos
+            video_ids = [v["videoId"] for v in videos]
+            stats = get_video_stats(video_ids)
+        except Exception as e:
+            print(f"  [ERROR] Failed to fetch {channel_name}: {e}")
             continue
-        
-        print(f"  Channel ID: {channel_id} ({display_name})")
-        playlist_id = get_uploads_playlist(channel_id)
-        if not playlist_id:
-            print(f"  [WARN] No uploads playlist for {channel_name}")
-            continue
-        
-        videos = get_playlist_videos(playlist_id)
-        if not videos:
-            print(f"  [WARN] No videos found for {channel_name}")
-            continue
-        
-        # Get stats for all videos
-        video_ids = [v["videoId"] for v in videos]
-        stats = get_video_stats(video_ids)
-        
+
         for v in videos:
             vid = v["videoId"]
             stat = stats.get(vid, {"viewCount": 0, "likeCount": 0, "duration": "PT0S"})
@@ -150,20 +166,20 @@ def main():
             # 跳过超过 30 天的视频
             published = datetime.datetime.fromisoformat(v["publishedAt"].replace("Z", "+00:00"))
             if published >= cutoff:
-                all_videos.append(v)
-        
+                all_videos[vid] = v
+
         print(f"  Fetched {len(videos)} videos")
         time.sleep(0.5)  # Rate limiting
-    
+
     # Sort by view count descending
-    all_videos.sort(key=lambda x: x["viewCount"], reverse=True)
+    sorted_videos = sorted(all_videos.values(), key=lambda x: x["viewCount"], reverse=True)
     
     # Save to JSON
     output_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), "videos.json")
     with open(output_path, "w") as f:
-        json.dump(all_videos, f, indent=2)
+        json.dump(sorted_videos, f, indent=2)
     
-    print(f"\nDone! Saved {len(all_videos)} videos to videos.json")
+    print(f"\nDone! Saved {len(sorted_videos)} videos to videos.json")
 
 if __name__ == "__main__":
     main()
