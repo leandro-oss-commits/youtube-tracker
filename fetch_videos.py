@@ -11,7 +11,9 @@ import ssl
 import time
 import os
 
-API_KEY = os.environ.get("YT_API_KEY") or "REDACTED_KEY"
+API_KEY = os.environ.get("YT_API_KEY")
+if not API_KEY:
+    raise RuntimeError("Missing YT_API_KEY environment variable. Set as GitHub Secret YT_API_KEY for CI, or export it locally.")
 CHANNELS = [
     # 🏆 Industry Leaders - High viewership, recognized authorities
     "garytalksstuff",     # Chinese harness engineering, agent workflows
