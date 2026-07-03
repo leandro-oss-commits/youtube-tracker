@@ -10,6 +10,8 @@ import json
 import ssl
 import time
 import os
+import re
+import datetime
 
 API_KEY = os.environ.get("YT_API_KEY")
 if not API_KEY:
@@ -119,7 +121,6 @@ def get_video_stats(video_ids):
 
 def parse_duration(duration_str):
     """Convert ISO 8601 duration to human-readable format."""
-    import re
     match = re.match(r'PT(?:(\d+)H)?(?:(\d+)M)?(?:(\d+)S)?', duration_str)
     if not match:
         return "0:00"
@@ -129,8 +130,8 @@ def parse_duration(duration_str):
     else:
         return f"{m}:{s:02d}"
 
+
 def main():
-    import datetime
     cutoff = datetime.datetime.now(datetime.timezone.utc) - datetime.timedelta(days=30)
     all_videos = {}
     
