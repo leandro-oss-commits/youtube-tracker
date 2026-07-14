@@ -5,8 +5,8 @@
     "publishedAt": "2026-06-15T18:35:58Z",
     "thumbnail": "https://i.ytimg.com/vi/ey_GaPdC9zk/hqdefault.jpg",
     "channelTitle": "Fireship",
-    "viewCount": 999895,
-    "likeCount": 33572,
+    "viewCount": 1000266,
+    "likeCount": 33581,
     "duration": "5:14"
   },
   {
@@ -15,8 +15,8 @@
     "publishedAt": "2026-07-08T17:53:47Z",
     "thumbnail": "https://i.ytimg.com/vi/KGtko3y2RXQ/hqdefault.jpg",
     "channelTitle": "Fireship",
-    "viewCount": 724717,
-    "likeCount": 23303,
+    "viewCount": 738561,
+    "likeCount": 23543,
     "duration": "4:37"
   },
   {
@@ -25,8 +25,8 @@
     "publishedAt": "2026-07-10T17:25:44Z",
     "thumbnail": "https://i.ytimg.com/vi/URKml8lgw8Y/hqdefault.jpg",
     "channelTitle": "Fireship",
-    "viewCount": 642184,
-    "likeCount": 20534,
+    "viewCount": 702276,
+    "likeCount": 21758,
     "duration": "4:59"
   },
   {
@@ -35,8 +35,8 @@
     "publishedAt": "2026-06-17T16:29:01Z",
     "thumbnail": "https://i.ytimg.com/vi/ML3q7Ok4hJg/hqdefault.jpg",
     "channelTitle": "Fireship",
-    "viewCount": 605873,
-    "likeCount": 39674,
+    "viewCount": 606907,
+    "likeCount": 39709,
     "duration": "10:12"
   },
   {
@@ -45,8 +45,8 @@
     "publishedAt": "2026-06-19T17:24:47Z",
     "thumbnail": "https://i.ytimg.com/vi/Sntj4HmuykI/hqdefault.jpg",
     "channelTitle": "Fireship",
-    "viewCount": 556231,
-    "likeCount": 22903,
+    "viewCount": 556957,
+    "likeCount": 22914,
     "duration": "5:20"
   },
   {
@@ -55,8 +55,8 @@
     "publishedAt": "2026-06-23T16:46:50Z",
     "thumbnail": "https://i.ytimg.com/vi/a2i9h2ip-nY/hqdefault.jpg",
     "channelTitle": "Fireship",
-    "viewCount": 506662,
-    "likeCount": 16199,
+    "viewCount": 507337,
+    "likeCount": 16205,
     "duration": "5:26"
   },
   {
@@ -65,8 +65,8 @@
     "publishedAt": "2026-07-06T16:59:51Z",
     "thumbnail": "https://i.ytimg.com/vi/rKV5JcALQoQ/hqdefault.jpg",
     "channelTitle": "Anthropic",
-    "viewCount": 307987,
-    "likeCount": 16179,
+    "viewCount": 318732,
+    "likeCount": 16475,
     "duration": "5:27"
   },
   {
@@ -75,8 +75,8 @@
     "publishedAt": "2026-07-01T16:33:28Z",
     "thumbnail": "https://i.ytimg.com/vi/7B0ydm64cV8/hqdefault.jpg",
     "channelTitle": "Fireship",
-    "viewCount": 293245,
-    "likeCount": 15256,
+    "viewCount": 294664,
+    "likeCount": 15306,
     "duration": "8:06"
   },
   {
@@ -85,19 +85,9 @@
     "publishedAt": "2026-06-22T15:53:06Z",
     "thumbnail": "https://i.ytimg.com/vi/mG4SmhWyeFA/hqdefault.jpg",
     "channelTitle": "Two Minute Papers",
-    "viewCount": 227086,
-    "likeCount": 10372,
+    "viewCount": 227369,
+    "likeCount": 10374,
     "duration": "5:50"
-  },
-  {
-    "videoId": "xFPiU5sit7g",
-    "title": "Codex \u65b0\u624b\u6559\u5b78\uff0c\u975e\u6280\u8853\u4eba\u54e1\u4e5f\u80fd\u4e0a\u624b\u7684 AI Agent \u65b0\u624b\u6307\u5357",
-    "publishedAt": "2026-06-14T10:00:16Z",
-    "thumbnail": "https://i.ytimg.com/vi/xFPiU5sit7g/hqdefault.jpg",
-    "channelTitle": "Gary Chen",
-    "viewCount": 168178,
-    "likeCount": 6295,
-    "duration": "17:57"
   },
   {
     "videoId": "Ae9q7KsRbuI",
@@ -105,9 +95,19 @@
     "publishedAt": "2026-07-12T15:48:43Z",
     "thumbnail": "https://i.ytimg.com/vi/Ae9q7KsRbuI/hqdefault.jpg",
     "channelTitle": "Two Minute Papers",
-    "viewCount": 128214,
-    "likeCount": 9162,
+    "viewCount": 172963,
+    "likeCount": 11733,
     "duration": "6:53"
+  },
+  {
+    "videoId": "xFPiU5sit7g",
+    "title": "Codex \u65b0\u624b\u6559\u5b78\uff0c\u975e\u6280\u8853\u4eba\u54e1\u4e5f\u80fd\u4e0a\u624b\u7684 AI Agent \u65b0\u624b\u6307\u5357",
+    "publishedAt": "2026-06-14T10:00:16Z",
+    "thumbnail": "https://i.ytimg.com/vi/xFPiU5sit7g/hqdefault.jpg",
+    "channelTitle": "Gary Chen",
+    "viewCount": 170970,
+    "likeCount": 6378,
+    "duration": "17:57"
   },
   {
     "videoId": "y24lF1q4SFY",
@@ -115,8 +115,8 @@
     "publishedAt": "2026-07-02T16:27:26Z",
     "thumbnail": "https://i.ytimg.com/vi/y24lF1q4SFY/hqdefault.jpg",
     "channelTitle": "AI Explained",
-    "viewCount": 117482,
-    "likeCount": 2825,
+    "viewCount": 117761,
+    "likeCount": 2829,
     "duration": "18:03"
   },
   {
@@ -125,8 +125,8 @@
     "publishedAt": "2026-06-19T14:06:00Z",
     "thumbnail": "https://i.ytimg.com/vi/dUmT0OIGoqE/hqdefault.jpg",
     "channelTitle": "Two Minute Papers",
-    "viewCount": 116210,
-    "likeCount": 4834,
+    "viewCount": 116357,
+    "likeCount": 4836,
     "duration": "6:57"
   },
   {
@@ -135,8 +135,8 @@
     "publishedAt": "2026-07-10T14:41:53Z",
     "thumbnail": "https://i.ytimg.com/vi/EOCRtSnvNNE/hqdefault.jpg",
     "channelTitle": "Matt Wolfe",
-    "viewCount": 98088,
-    "likeCount": 3411,
+    "viewCount": 105074,
+    "likeCount": 3585,
     "duration": "38:41"
   },
   {
@@ -145,8 +145,8 @@
     "publishedAt": "2026-06-19T14:00:26Z",
     "thumbnail": "https://i.ytimg.com/vi/8OOuCnZB-4o/hqdefault.jpg",
     "channelTitle": "Y Combinator",
-    "viewCount": 95173,
-    "likeCount": 1892,
+    "viewCount": 95900,
+    "likeCount": 1905,
     "duration": "42:43"
   },
   {
@@ -155,8 +155,8 @@
     "publishedAt": "2026-07-01T05:23:54Z",
     "thumbnail": "https://i.ytimg.com/vi/qks6dGQFd_c/hqdefault.jpg",
     "channelTitle": "Two Minute Papers",
-    "viewCount": 93833,
-    "likeCount": 4034,
+    "viewCount": 94150,
+    "likeCount": 4041,
     "duration": "7:27"
   },
   {
@@ -165,8 +165,8 @@
     "publishedAt": "2026-06-17T14:00:15Z",
     "thumbnail": "https://i.ytimg.com/vi/R56RJFZBasQ/hqdefault.jpg",
     "channelTitle": "Y Combinator",
-    "viewCount": 92551,
-    "likeCount": 3940,
+    "viewCount": 93927,
+    "likeCount": 3987,
     "duration": "11:31"
   },
   {
@@ -175,8 +175,8 @@
     "publishedAt": "2026-06-16T15:53:17Z",
     "thumbnail": "https://i.ytimg.com/vi/l72ufA-4SzE/hqdefault.jpg",
     "channelTitle": "Two Minute Papers",
-    "viewCount": 90148,
-    "likeCount": 4444,
+    "viewCount": 90257,
+    "likeCount": 4450,
     "duration": "6:57"
   },
   {
@@ -185,8 +185,8 @@
     "publishedAt": "2026-06-30T13:00:21Z",
     "thumbnail": "https://i.ytimg.com/vi/7GkIWPPC9i0/hqdefault.jpg",
     "channelTitle": "Jeff Su",
-    "viewCount": 88654,
-    "likeCount": 1964,
+    "viewCount": 89720,
+    "likeCount": 1981,
     "duration": "15:43"
   },
   {
@@ -195,19 +195,9 @@
     "publishedAt": "2026-07-01T21:21:21Z",
     "thumbnail": "https://i.ytimg.com/vi/A3fxKRsvh3U/hqdefault.jpg",
     "channelTitle": "Alex Finn",
-    "viewCount": 84795,
-    "likeCount": 2410,
+    "viewCount": 84991,
+    "likeCount": 2411,
     "duration": "14:22"
-  },
-  {
-    "videoId": "bQ1LCFrwj08",
-    "title": "The new Hermes Agent update has me speechless....",
-    "publishedAt": "2026-06-24T13:15:31Z",
-    "thumbnail": "https://i.ytimg.com/vi/bQ1LCFrwj08/hqdefault.jpg",
-    "channelTitle": "Alex Finn",
-    "viewCount": 83898,
-    "likeCount": 2674,
-    "duration": "13:39"
   },
   {
     "videoId": "IYYTI73J7Rg",
@@ -215,9 +205,39 @@
     "publishedAt": "2026-07-10T19:45:02Z",
     "thumbnail": "https://i.ytimg.com/vi/IYYTI73J7Rg/hqdefault.jpg",
     "channelTitle": "OpenAI",
-    "viewCount": 80153,
-    "likeCount": 2468,
+    "viewCount": 84903,
+    "likeCount": 2546,
     "duration": "0:56"
+  },
+  {
+    "videoId": "bQ1LCFrwj08",
+    "title": "The new Hermes Agent update has me speechless....",
+    "publishedAt": "2026-06-24T13:15:31Z",
+    "thumbnail": "https://i.ytimg.com/vi/bQ1LCFrwj08/hqdefault.jpg",
+    "channelTitle": "Alex Finn",
+    "viewCount": 83985,
+    "likeCount": 2674,
+    "duration": "13:39"
+  },
+  {
+    "videoId": "gUblhLMhc94",
+    "title": "i am begging you to try harry potter fan fiction",
+    "publishedAt": "2026-07-10T12:37:50Z",
+    "thumbnail": "https://i.ytimg.com/vi/gUblhLMhc94/hqdefault.jpg",
+    "channelTitle": "Ali Abdaal",
+    "viewCount": 80605,
+    "likeCount": 3586,
+    "duration": "24:57"
+  },
+  {
+    "videoId": "mWlCituW7wo",
+    "title": "A Model Explosion: GPT 5.6 Sol, Grok 4.5 and Meta Muse Rewrite the Rules",
+    "publishedAt": "2026-07-10T12:40:15Z",
+    "thumbnail": "https://i.ytimg.com/vi/mWlCituW7wo/hqdefault.jpg",
+    "channelTitle": "AI Explained",
+    "viewCount": 76516,
+    "likeCount": 2829,
+    "duration": "17:34"
   },
   {
     "videoId": "Qj71N0tBzRo",
@@ -225,8 +245,8 @@
     "publishedAt": "2026-06-14T14:52:27Z",
     "thumbnail": "https://i.ytimg.com/vi/Qj71N0tBzRo/hqdefault.jpg",
     "channelTitle": "AI Explained",
-    "viewCount": 75867,
-    "likeCount": 2863,
+    "viewCount": 75884,
+    "likeCount": 2865,
     "duration": "13:21"
   },
   {
@@ -235,19 +255,19 @@
     "publishedAt": "2026-06-22T16:54:40Z",
     "thumbnail": "https://i.ytimg.com/vi/_FBivfgOvuE/hqdefault.jpg",
     "channelTitle": "Y Combinator",
-    "viewCount": 73527,
-    "likeCount": 2786,
+    "viewCount": 74428,
+    "likeCount": 2811,
     "duration": "13:47"
   },
   {
-    "videoId": "mWlCituW7wo",
-    "title": "A Model Explosion: GPT 5.6 Sol, Grok 4.5 and Meta Muse Rewrite the Rules",
-    "publishedAt": "2026-07-10T12:40:15Z",
-    "thumbnail": "https://i.ytimg.com/vi/mWlCituW7wo/hqdefault.jpg",
-    "channelTitle": "AI Explained",
-    "viewCount": 73255,
-    "likeCount": 2773,
-    "duration": "17:34"
+    "videoId": "Ig2zcKJQWig",
+    "title": "The Dark Side Of Getting Rich On YouTube",
+    "publishedAt": "2026-06-29T17:38:45Z",
+    "thumbnail": "https://i.ytimg.com/vi/Ig2zcKJQWig/hqdefault.jpg",
+    "channelTitle": "Ali Abdaal",
+    "viewCount": 72615,
+    "likeCount": 1808,
+    "duration": "1:58:14"
   },
   {
     "videoId": "5zm7LIDXtvE",
@@ -255,19 +275,9 @@
     "publishedAt": "2026-06-27T02:55:19Z",
     "thumbnail": "https://i.ytimg.com/vi/5zm7LIDXtvE/hqdefault.jpg",
     "channelTitle": "Alex Finn",
-    "viewCount": 71552,
-    "likeCount": 2116,
+    "viewCount": 71580,
+    "likeCount": 2115,
     "duration": "10:33"
-  },
-  {
-    "videoId": "Ig2zcKJQWig",
-    "title": "The Dark Side Of Getting Rich On Youtube w/ @mattdavella",
-    "publishedAt": "2026-06-29T17:38:45Z",
-    "thumbnail": "https://i.ytimg.com/vi/Ig2zcKJQWig/hqdefault.jpg",
-    "channelTitle": "Ali Abdaal",
-    "viewCount": 69687,
-    "likeCount": 1743,
-    "duration": "1:58:14"
   },
   {
     "videoId": "zJvN8PDX1is",
@@ -275,8 +285,8 @@
     "publishedAt": "2026-06-14T15:27:17Z",
     "thumbnail": "https://i.ytimg.com/vi/zJvN8PDX1is/hqdefault.jpg",
     "channelTitle": "Two Minute Papers",
-    "viewCount": 68900,
-    "likeCount": 2498,
+    "viewCount": 68969,
+    "likeCount": 2499,
     "duration": "7:51"
   },
   {
@@ -285,19 +295,9 @@
     "publishedAt": "2026-06-27T19:29:10Z",
     "thumbnail": "https://i.ytimg.com/vi/C4vwvRMTlvc/hqdefault.jpg",
     "channelTitle": "Alex Finn",
-    "viewCount": 64693,
-    "likeCount": 2682,
+    "viewCount": 65280,
+    "likeCount": 2703,
     "duration": "20:15"
-  },
-  {
-    "videoId": "gUblhLMhc94",
-    "title": "i am begging you to try harry potter fan fiction",
-    "publishedAt": "2026-07-10T12:37:50Z",
-    "thumbnail": "https://i.ytimg.com/vi/gUblhLMhc94/hqdefault.jpg",
-    "channelTitle": "Ali Abdaal",
-    "viewCount": 63177,
-    "likeCount": 2849,
-    "duration": "24:57"
   },
   {
     "videoId": "mhOqhMuYxWE",
@@ -305,7 +305,7 @@
     "publishedAt": "2026-06-19T18:15:48Z",
     "thumbnail": "https://i.ytimg.com/vi/mhOqhMuYxWE/hqdefault.jpg",
     "channelTitle": "Alex Finn",
-    "viewCount": 63037,
+    "viewCount": 63226,
     "likeCount": 1785,
     "duration": "18:31"
   },
@@ -315,39 +315,9 @@
     "publishedAt": "2026-07-01T08:30:13Z",
     "thumbnail": "https://i.ytimg.com/vi/kGYFSDd-ZVY/hqdefault.jpg",
     "channelTitle": "Gary Chen",
-    "viewCount": 61512,
-    "likeCount": 1567,
+    "viewCount": 62764,
+    "likeCount": 1591,
     "duration": "13:07"
-  },
-  {
-    "videoId": "1yBU41auQhw",
-    "title": "DeepSeek's Absolutely Insane AI Speed Hack",
-    "publishedAt": "2026-07-07T16:33:29Z",
-    "thumbnail": "https://i.ytimg.com/vi/1yBU41auQhw/hqdefault.jpg",
-    "channelTitle": "Two Minute Papers",
-    "viewCount": 60105,
-    "likeCount": 2494,
-    "duration": "5:45"
-  },
-  {
-    "videoId": "_LYXbI6JY5M",
-    "title": "The new Hermes Agent update officially ended OpenClaw",
-    "publishedAt": "2026-07-06T20:31:27Z",
-    "thumbnail": "https://i.ytimg.com/vi/_LYXbI6JY5M/hqdefault.jpg",
-    "channelTitle": "Alex Finn",
-    "viewCount": 58931,
-    "likeCount": 2004,
-    "duration": "11:57"
-  },
-  {
-    "videoId": "r0TLqUwsB28",
-    "title": "ChatGPT 5.6 just KILLED Fable 5",
-    "publishedAt": "2026-07-09T18:21:02Z",
-    "thumbnail": "https://i.ytimg.com/vi/r0TLqUwsB28/hqdefault.jpg",
-    "channelTitle": "Alex Finn",
-    "viewCount": 58841,
-    "likeCount": 2455,
-    "duration": "19:40"
   },
   {
     "videoId": "W_wW6AFrqQo",
@@ -355,9 +325,19 @@
     "publishedAt": "2026-07-07T13:13:23Z",
     "thumbnail": "https://i.ytimg.com/vi/W_wW6AFrqQo/hqdefault.jpg",
     "channelTitle": "Tina Huang",
-    "viewCount": 58372,
-    "likeCount": 2435,
+    "viewCount": 61072,
+    "likeCount": 2512,
     "duration": "22:49"
+  },
+  {
+    "videoId": "1yBU41auQhw",
+    "title": "DeepSeek's Absolutely Insane AI Speed Hack",
+    "publishedAt": "2026-07-07T16:33:29Z",
+    "thumbnail": "https://i.ytimg.com/vi/1yBU41auQhw/hqdefault.jpg",
+    "channelTitle": "Two Minute Papers",
+    "viewCount": 61015,
+    "likeCount": 2509,
+    "duration": "5:45"
   },
   {
     "videoId": "goU9VIXA8II",
@@ -365,9 +345,29 @@
     "publishedAt": "2026-07-07T11:00:35Z",
     "thumbnail": "https://i.ytimg.com/vi/goU9VIXA8II/hqdefault.jpg",
     "channelTitle": "IBM Technology",
-    "viewCount": 57016,
-    "likeCount": 1774,
+    "viewCount": 60772,
+    "likeCount": 1850,
     "duration": "8:03"
+  },
+  {
+    "videoId": "r0TLqUwsB28",
+    "title": "ChatGPT 5.6 just KILLED Fable 5",
+    "publishedAt": "2026-07-09T18:21:02Z",
+    "thumbnail": "https://i.ytimg.com/vi/r0TLqUwsB28/hqdefault.jpg",
+    "channelTitle": "Alex Finn",
+    "viewCount": 60166,
+    "likeCount": 2493,
+    "duration": "19:40"
+  },
+  {
+    "videoId": "_LYXbI6JY5M",
+    "title": "The new Hermes Agent update officially ended OpenClaw",
+    "publishedAt": "2026-07-06T20:31:27Z",
+    "thumbnail": "https://i.ytimg.com/vi/_LYXbI6JY5M/hqdefault.jpg",
+    "channelTitle": "Alex Finn",
+    "viewCount": 59460,
+    "likeCount": 2011,
+    "duration": "11:57"
   },
   {
     "videoId": "hR1-I0YPy3U",
@@ -375,8 +375,8 @@
     "publishedAt": "2026-06-29T11:30:23Z",
     "thumbnail": "https://i.ytimg.com/vi/hR1-I0YPy3U/hqdefault.jpg",
     "channelTitle": "Tina Huang",
-    "viewCount": 56540,
-    "likeCount": 2297,
+    "viewCount": 57187,
+    "likeCount": 2324,
     "duration": "13:19"
   },
   {
@@ -385,19 +385,9 @@
     "publishedAt": "2026-06-30T19:39:15Z",
     "thumbnail": "https://i.ytimg.com/vi/uU0RFxGv-Ks/hqdefault.jpg",
     "channelTitle": "Alex Finn",
-    "viewCount": 53935,
-    "likeCount": 1258,
+    "viewCount": 54024,
+    "likeCount": 1259,
     "duration": "11:56"
-  },
-  {
-    "videoId": "h5dlIPM0X18",
-    "title": "Why AI Labs With Unlimited GPUs Still Fail \u2014 Anjney Midha, AMP",
-    "publishedAt": "2026-06-18T17:25:22Z",
-    "thumbnail": "https://i.ytimg.com/vi/h5dlIPM0X18/hqdefault.jpg",
-    "channelTitle": "Latent Space",
-    "viewCount": 47593,
-    "likeCount": 257,
-    "duration": "1:00:37"
   },
   {
     "videoId": "VbqaL_eHhKY",
@@ -405,8 +395,8 @@
     "publishedAt": "2026-07-10T14:00:10Z",
     "thumbnail": "https://i.ytimg.com/vi/VbqaL_eHhKY/hqdefault.jpg",
     "channelTitle": "Y Combinator",
-    "viewCount": 44719,
-    "likeCount": 1329,
+    "viewCount": 53731,
+    "likeCount": 1551,
     "duration": "30:55"
   },
   {
@@ -415,8 +405,8 @@
     "publishedAt": "2026-07-08T16:22:35Z",
     "thumbnail": "https://i.ytimg.com/vi/SpEwNq9H23w/hqdefault.jpg",
     "channelTitle": "Alex Finn",
-    "viewCount": 41128,
-    "likeCount": 1588,
+    "viewCount": 43853,
+    "likeCount": 1652,
     "duration": "19:25"
   },
   {
@@ -425,9 +415,19 @@
     "publishedAt": "2026-07-08T20:28:53Z",
     "thumbnail": "https://i.ytimg.com/vi/Zq5Yj8yCiqY/hqdefault.jpg",
     "channelTitle": "Matt Wolfe",
-    "viewCount": 40935,
-    "likeCount": 1838,
+    "viewCount": 42476,
+    "likeCount": 1887,
     "duration": "29:37"
+  },
+  {
+    "videoId": "vETComn6HQ8",
+    "title": "1000 Designs a Day: Neural Concept's Thomas von Tschammer on AI-Native Engineering",
+    "publishedAt": "2026-07-01T09:29:51Z",
+    "thumbnail": "https://i.ytimg.com/vi/vETComn6HQ8/hqdefault.jpg",
+    "channelTitle": "Cognitive Revolution \"How AI Changes Everything\"",
+    "viewCount": 35884,
+    "likeCount": 11,
+    "duration": "1:29:02"
   },
   {
     "videoId": "uO5cvkzh3P0",
@@ -435,8 +435,8 @@
     "publishedAt": "2026-07-03T17:19:59Z",
     "thumbnail": "https://i.ytimg.com/vi/uO5cvkzh3P0/hqdefault.jpg",
     "channelTitle": "Two Minute Papers",
-    "viewCount": 34910,
-    "likeCount": 1862,
+    "viewCount": 35307,
+    "likeCount": 1874,
     "duration": "6:18"
   },
   {
@@ -445,19 +445,9 @@
     "publishedAt": "2026-06-25T14:00:34Z",
     "thumbnail": "https://i.ytimg.com/vi/oHwUD9b9_pg/hqdefault.jpg",
     "channelTitle": "Y Combinator",
-    "viewCount": 34314,
-    "likeCount": 716,
+    "viewCount": 34622,
+    "likeCount": 720,
     "duration": "40:43"
-  },
-  {
-    "videoId": "vETComn6HQ8",
-    "title": "1000 Designs a Day: Neural Concept's Thomas von Tschammer on AI-Native Engineering",
-    "publishedAt": "2026-07-01T09:29:51Z",
-    "thumbnail": "https://i.ytimg.com/vi/vETComn6HQ8/hqdefault.jpg",
-    "channelTitle": "Cognitive Revolution \"How AI Changes Everything\"",
-    "viewCount": 32499,
-    "likeCount": 10,
-    "duration": "1:29:02"
   },
   {
     "videoId": "Vvad9lpEy8Q",
@@ -465,29 +455,9 @@
     "publishedAt": "2026-07-04T06:14:21Z",
     "thumbnail": "https://i.ytimg.com/vi/Vvad9lpEy8Q/hqdefault.jpg",
     "channelTitle": "Cognitive Revolution \"How AI Changes Everything\"",
-    "viewCount": 26717,
+    "viewCount": 30678,
     "likeCount": 19,
     "duration": "1:47:38"
-  },
-  {
-    "videoId": "d9cnud8KYFk",
-    "title": "My 2026 AI Tool Stack",
-    "publishedAt": "2026-06-14T15:55:23Z",
-    "thumbnail": "https://i.ytimg.com/vi/d9cnud8KYFk/hqdefault.jpg",
-    "channelTitle": "Tina Huang",
-    "viewCount": 26470,
-    "likeCount": 701,
-    "duration": "0:28"
-  },
-  {
-    "videoId": "1ItQnh3LWeg",
-    "title": "AI Gave You A Promotion: Why AI Isn\u2019t Replacing Jobs",
-    "publishedAt": "2026-07-05T11:00:35Z",
-    "thumbnail": "https://i.ytimg.com/vi/1ItQnh3LWeg/hqdefault.jpg",
-    "channelTitle": "IBM Technology",
-    "viewCount": 26429,
-    "likeCount": 1292,
-    "duration": "13:54"
   },
   {
     "videoId": "FktgMN390Xo",
@@ -495,9 +465,29 @@
     "publishedAt": "2026-07-10T14:00:20Z",
     "thumbnail": "https://i.ytimg.com/vi/FktgMN390Xo/hqdefault.jpg",
     "channelTitle": "Ali Abdaal",
-    "viewCount": 26283,
-    "likeCount": 961,
+    "viewCount": 29532,
+    "likeCount": 1059,
     "duration": "1:01"
+  },
+  {
+    "videoId": "1ItQnh3LWeg",
+    "title": "AI Gave You A Promotion: Why AI Isn\u2019t Replacing Jobs",
+    "publishedAt": "2026-07-05T11:00:35Z",
+    "thumbnail": "https://i.ytimg.com/vi/1ItQnh3LWeg/hqdefault.jpg",
+    "channelTitle": "IBM Technology",
+    "viewCount": 26868,
+    "likeCount": 1311,
+    "duration": "13:54"
+  },
+  {
+    "videoId": "d9cnud8KYFk",
+    "title": "My 2026 AI Tool Stack",
+    "publishedAt": "2026-06-14T15:55:23Z",
+    "thumbnail": "https://i.ytimg.com/vi/d9cnud8KYFk/hqdefault.jpg",
+    "channelTitle": "Tina Huang",
+    "viewCount": 26526,
+    "likeCount": 703,
+    "duration": "0:28"
   },
   {
     "videoId": "hJfJMT-yfr0",
@@ -505,8 +495,8 @@
     "publishedAt": "2026-07-03T07:00:20Z",
     "thumbnail": "https://i.ytimg.com/vi/hJfJMT-yfr0/hqdefault.jpg",
     "channelTitle": "Ali Abdaal",
-    "viewCount": 25847,
-    "likeCount": 1049,
+    "viewCount": 26111,
+    "likeCount": 1061,
     "duration": "1:32"
   },
   {
@@ -515,9 +505,39 @@
     "publishedAt": "2026-07-04T10:00:07Z",
     "thumbnail": "https://i.ytimg.com/vi/L7vrYf-Mgdg/hqdefault.jpg",
     "channelTitle": "Ali Abdaal",
-    "viewCount": 25529,
-    "likeCount": 721,
+    "viewCount": 25937,
+    "likeCount": 734,
     "duration": "0:39"
+  },
+  {
+    "videoId": "Iir8dmNoNTg",
+    "title": "ChatGPT\u2019s Latest Update Is MASSIVE",
+    "publishedAt": "2026-07-11T15:37:50Z",
+    "thumbnail": "https://i.ytimg.com/vi/Iir8dmNoNTg/hqdefault.jpg",
+    "channelTitle": "Matt Wolfe",
+    "viewCount": 25923,
+    "likeCount": 936,
+    "duration": "1:39"
+  },
+  {
+    "videoId": "fpAthTtha8c",
+    "title": "Cooking with OpenAI\u2019s Research Chief: AGI, o1, Evals, and Scaling Laws \u2014 Mark Chen",
+    "publishedAt": "2026-06-25T21:32:27Z",
+    "thumbnail": "https://i.ytimg.com/vi/fpAthTtha8c/hqdefault.jpg",
+    "channelTitle": "Latent Space",
+    "viewCount": 25309,
+    "likeCount": 268,
+    "duration": "41:18"
+  },
+  {
+    "videoId": "ZVPlLaehjLk",
+    "title": "Agentic AI Frameworks Explained: Workflows, Multi-Agent, & Production",
+    "publishedAt": "2026-07-09T11:00:08Z",
+    "thumbnail": "https://i.ytimg.com/vi/ZVPlLaehjLk/hqdefault.jpg",
+    "channelTitle": "IBM Technology",
+    "viewCount": 25032,
+    "likeCount": 944,
+    "duration": "11:54"
   },
   {
     "videoId": "Ju8LVdvuxGM",
@@ -525,8 +545,8 @@
     "publishedAt": "2026-06-27T12:30:39Z",
     "thumbnail": "https://i.ytimg.com/vi/Ju8LVdvuxGM/hqdefault.jpg",
     "channelTitle": "Y Combinator",
-    "viewCount": 24854,
-    "likeCount": 597,
+    "viewCount": 25017,
+    "likeCount": 599,
     "duration": "32:10"
   },
   {
@@ -535,39 +555,9 @@
     "publishedAt": "2026-07-06T13:00:06Z",
     "thumbnail": "https://i.ytimg.com/vi/WAFUMBLOjHo/hqdefault.jpg",
     "channelTitle": "IndyDevDan",
-    "viewCount": 23725,
-    "likeCount": 802,
+    "viewCount": 24608,
+    "likeCount": 823,
     "duration": "30:29"
-  },
-  {
-    "videoId": "ZVPlLaehjLk",
-    "title": "Agentic AI Frameworks Explained: Workflows, Multi-Agent, & Production",
-    "publishedAt": "2026-07-09T11:00:08Z",
-    "thumbnail": "https://i.ytimg.com/vi/ZVPlLaehjLk/hqdefault.jpg",
-    "channelTitle": "IBM Technology",
-    "viewCount": 23185,
-    "likeCount": 887,
-    "duration": "11:54"
-  },
-  {
-    "videoId": "fpAthTtha8c",
-    "title": "Cooking with OpenAI\u2019s Research Chief: AGI, o1, Evals, and Scaling Laws \u2014 Mark Chen",
-    "publishedAt": "2026-06-25T21:32:27Z",
-    "thumbnail": "https://i.ytimg.com/vi/fpAthTtha8c/hqdefault.jpg",
-    "channelTitle": "Latent Space",
-    "viewCount": 22159,
-    "likeCount": 266,
-    "duration": "41:18"
-  },
-  {
-    "videoId": "0akWiY5F8H4",
-    "title": "The truth about transitional phases",
-    "publishedAt": "2026-06-29T10:00:14Z",
-    "thumbnail": "https://i.ytimg.com/vi/0akWiY5F8H4/hqdefault.jpg",
-    "channelTitle": "Ali Abdaal",
-    "viewCount": 21658,
-    "likeCount": 781,
-    "duration": "1:23"
   },
   {
     "videoId": "-fSjdYzrFvA",
@@ -575,9 +565,39 @@
     "publishedAt": "2026-07-07T14:00:35Z",
     "thumbnail": "https://i.ytimg.com/vi/-fSjdYzrFvA/hqdefault.jpg",
     "channelTitle": "Tonbi's AI Garage",
-    "viewCount": 21189,
-    "likeCount": 725,
+    "viewCount": 22383,
+    "likeCount": 749,
     "duration": "15:20"
+  },
+  {
+    "videoId": "0akWiY5F8H4",
+    "title": "The truth about transitional phases",
+    "publishedAt": "2026-06-29T10:00:14Z",
+    "thumbnail": "https://i.ytimg.com/vi/0akWiY5F8H4/hqdefault.jpg",
+    "channelTitle": "Ali Abdaal",
+    "viewCount": 21790,
+    "likeCount": 783,
+    "duration": "1:23"
+  },
+  {
+    "videoId": "GzHfE50N8x4",
+    "title": "15 \u5206\u9418\u770b\u5b8c Google Vibe Coding/Agentic Engineering \u958b\u767c\u8ab2 Day 1",
+    "publishedAt": "2026-07-10T11:37:58Z",
+    "thumbnail": "https://i.ytimg.com/vi/GzHfE50N8x4/hqdefault.jpg",
+    "channelTitle": "Gary Chen",
+    "viewCount": 20783,
+    "likeCount": 1091,
+    "duration": "15:58"
+  },
+  {
+    "videoId": "VQy50fuxI34",
+    "title": "FORGET Loop Engineering. Agentic Engineering is about THIS",
+    "publishedAt": "2026-07-13T13:00:15Z",
+    "thumbnail": "https://i.ytimg.com/vi/VQy50fuxI34/hqdefault.jpg",
+    "channelTitle": "IndyDevDan",
+    "viewCount": 20206,
+    "likeCount": 1312,
+    "duration": "34:18"
   },
   {
     "videoId": "cFYdiynrxpQ",
@@ -585,8 +605,8 @@
     "publishedAt": "2026-06-29T13:00:34Z",
     "thumbnail": "https://i.ytimg.com/vi/cFYdiynrxpQ/hqdefault.jpg",
     "channelTitle": "IndyDevDan",
-    "viewCount": 19113,
-    "likeCount": 620,
+    "viewCount": 19449,
+    "likeCount": 626,
     "duration": "26:20"
   },
   {
@@ -595,8 +615,8 @@
     "publishedAt": "2026-06-30T10:00:02Z",
     "thumbnail": "https://i.ytimg.com/vi/-1aJc_1YALo/hqdefault.jpg",
     "channelTitle": "Ali Abdaal",
-    "viewCount": 18725,
-    "likeCount": 821,
+    "viewCount": 18854,
+    "likeCount": 822,
     "duration": "1:20"
   },
   {
@@ -605,8 +625,8 @@
     "publishedAt": "2026-07-08T00:09:25Z",
     "thumbnail": "https://i.ytimg.com/vi/bxdsBsbtoSg/hqdefault.jpg",
     "channelTitle": "Matt Wolfe",
-    "viewCount": 18604,
-    "likeCount": 992,
+    "viewCount": 18830,
+    "likeCount": 1001,
     "duration": "1:36"
   },
   {
@@ -615,59 +635,9 @@
     "publishedAt": "2026-06-21T15:00:04Z",
     "thumbnail": "https://i.ytimg.com/vi/ZTlM9VkBxlE/hqdefault.jpg",
     "channelTitle": "Tina Huang",
-    "viewCount": 18449,
-    "likeCount": 250,
+    "viewCount": 18532,
+    "likeCount": 252,
     "duration": "0:06"
-  },
-  {
-    "videoId": "D1BHGv4gB6c",
-    "title": "Claude Fable 5 BANNED: The First Model Agentic Engineers DON'T NEED",
-    "publishedAt": "2026-06-15T13:00:02Z",
-    "thumbnail": "https://i.ytimg.com/vi/D1BHGv4gB6c/hqdefault.jpg",
-    "channelTitle": "IndyDevDan",
-    "viewCount": 18446,
-    "likeCount": 481,
-    "duration": "31:25"
-  },
-  {
-    "videoId": "GzHfE50N8x4",
-    "title": "15 \u5206\u9418\u770b\u5b8c Google Vibe Coding/Agentic Engineering \u958b\u767c\u8ab2 Day 1",
-    "publishedAt": "2026-07-10T11:37:58Z",
-    "thumbnail": "https://i.ytimg.com/vi/GzHfE50N8x4/hqdefault.jpg",
-    "channelTitle": "Gary Chen",
-    "viewCount": 17786,
-    "likeCount": 934,
-    "duration": "15:58"
-  },
-  {
-    "videoId": "8Cdn9i65YVs",
-    "title": "My 2 watches",
-    "publishedAt": "2026-07-01T10:00:33Z",
-    "thumbnail": "https://i.ytimg.com/vi/8Cdn9i65YVs/hqdefault.jpg",
-    "channelTitle": "Ali Abdaal",
-    "viewCount": 17733,
-    "likeCount": 303,
-    "duration": "0:49"
-  },
-  {
-    "videoId": "Iir8dmNoNTg",
-    "title": "ChatGPT\u2019s Latest Update Is MASSIVE",
-    "publishedAt": "2026-07-11T15:37:50Z",
-    "thumbnail": "https://i.ytimg.com/vi/Iir8dmNoNTg/hqdefault.jpg",
-    "channelTitle": "Matt Wolfe",
-    "viewCount": 17617,
-    "likeCount": 683,
-    "duration": "1:39"
-  },
-  {
-    "videoId": "DzbqeO_diOQ",
-    "title": "PLANS For Fable 5: Rebuilding My /Plan Skill for Mythos Class Models",
-    "publishedAt": "2026-06-22T13:00:21Z",
-    "thumbnail": "https://i.ytimg.com/vi/DzbqeO_diOQ/hqdefault.jpg",
-    "channelTitle": "IndyDevDan",
-    "viewCount": 17258,
-    "likeCount": 587,
-    "duration": "1:02:49"
   },
   {
     "videoId": "K3YYr6yauAw",
@@ -675,9 +645,39 @@
     "publishedAt": "2026-07-10T23:00:09Z",
     "thumbnail": "https://i.ytimg.com/vi/K3YYr6yauAw/hqdefault.jpg",
     "channelTitle": "Google Cloud Tech",
-    "viewCount": 16186,
-    "likeCount": 452,
+    "viewCount": 18494,
+    "likeCount": 490,
     "duration": "19:16"
+  },
+  {
+    "videoId": "D1BHGv4gB6c",
+    "title": "Claude Fable 5 BANNED: The First Model Agentic Engineers DON'T NEED",
+    "publishedAt": "2026-06-15T13:00:02Z",
+    "thumbnail": "https://i.ytimg.com/vi/D1BHGv4gB6c/hqdefault.jpg",
+    "channelTitle": "IndyDevDan",
+    "viewCount": 18459,
+    "likeCount": 482,
+    "duration": "31:25"
+  },
+  {
+    "videoId": "8Cdn9i65YVs",
+    "title": "My 2 watches",
+    "publishedAt": "2026-07-01T10:00:33Z",
+    "thumbnail": "https://i.ytimg.com/vi/8Cdn9i65YVs/hqdefault.jpg",
+    "channelTitle": "Ali Abdaal",
+    "viewCount": 18001,
+    "likeCount": 306,
+    "duration": "0:49"
+  },
+  {
+    "videoId": "DzbqeO_diOQ",
+    "title": "PLANS For Fable 5: Rebuilding My /Plan Skill for Mythos Class Models",
+    "publishedAt": "2026-06-22T13:00:21Z",
+    "thumbnail": "https://i.ytimg.com/vi/DzbqeO_diOQ/hqdefault.jpg",
+    "channelTitle": "IndyDevDan",
+    "viewCount": 17384,
+    "likeCount": 589,
+    "duration": "1:02:49"
   },
   {
     "videoId": "Yp_u1NpbkJg",
@@ -685,19 +685,9 @@
     "publishedAt": "2026-06-24T18:40:29Z",
     "thumbnail": "https://i.ytimg.com/vi/Yp_u1NpbkJg/hqdefault.jpg",
     "channelTitle": "Latent Space",
-    "viewCount": 16047,
-    "likeCount": 427,
+    "viewCount": 16220,
+    "likeCount": 433,
     "duration": "1:10:06"
-  },
-  {
-    "videoId": "xzrvAERmvRk",
-    "title": "AI \u5beb\u7684 code \u4e00\u5806 bug\uff1f\u8b93 Claude \u8ddf Codex \u81ea\u52d5\u4e92\u5be9",
-    "publishedAt": "2026-06-27T09:11:55Z",
-    "thumbnail": "https://i.ytimg.com/vi/xzrvAERmvRk/hqdefault.jpg",
-    "channelTitle": "Gary Chen",
-    "viewCount": 15686,
-    "likeCount": 581,
-    "duration": "12:28"
   },
   {
     "videoId": "xpeRVyFFy_Q",
@@ -705,9 +695,19 @@
     "publishedAt": "2026-07-08T14:00:19Z",
     "thumbnail": "https://i.ytimg.com/vi/xpeRVyFFy_Q/hqdefault.jpg",
     "channelTitle": "Y Combinator",
-    "viewCount": 15186,
-    "likeCount": 287,
+    "viewCount": 15957,
+    "likeCount": 303,
     "duration": "32:27"
+  },
+  {
+    "videoId": "xzrvAERmvRk",
+    "title": "AI \u5beb\u7684 code \u4e00\u5806 bug\uff1f\u8b93 Claude \u8ddf Codex \u81ea\u52d5\u4e92\u5be9",
+    "publishedAt": "2026-06-27T09:11:55Z",
+    "thumbnail": "https://i.ytimg.com/vi/xzrvAERmvRk/hqdefault.jpg",
+    "channelTitle": "Gary Chen",
+    "viewCount": 15802,
+    "likeCount": 586,
+    "duration": "12:28"
   },
   {
     "videoId": "omU3zR3K7-U",
@@ -715,8 +715,8 @@
     "publishedAt": "2026-06-19T13:28:15Z",
     "thumbnail": "https://i.ytimg.com/vi/omU3zR3K7-U/hqdefault.jpg",
     "channelTitle": "Dave Ebbelaar",
-    "viewCount": 15118,
-    "likeCount": 651,
+    "viewCount": 15287,
+    "likeCount": 654,
     "duration": "16:33"
   },
   {
@@ -725,8 +725,8 @@
     "publishedAt": "2026-07-03T10:00:38Z",
     "thumbnail": "https://i.ytimg.com/vi/6LZMamuYjjs/hqdefault.jpg",
     "channelTitle": "Ali Abdaal",
-    "viewCount": 14820,
-    "likeCount": 447,
+    "viewCount": 15041,
+    "likeCount": 449,
     "duration": "1:28"
   },
   {
@@ -735,9 +735,19 @@
     "publishedAt": "2026-06-18T15:19:03Z",
     "thumbnail": "https://i.ytimg.com/vi/Gw-m2b43WN4/hqdefault.jpg",
     "channelTitle": "Tina Huang",
-    "viewCount": 14308,
-    "likeCount": 204,
+    "viewCount": 14384,
+    "likeCount": 206,
     "duration": "0:15"
+  },
+  {
+    "videoId": "oXi5E3FvZKI",
+    "title": "OpenAI is FINALLY Releasing Hardware",
+    "publishedAt": "2026-07-09T17:14:13Z",
+    "thumbnail": "https://i.ytimg.com/vi/oXi5E3FvZKI/hqdefault.jpg",
+    "channelTitle": "Matt Wolfe",
+    "viewCount": 13555,
+    "likeCount": 277,
+    "duration": "0:44"
   },
   {
     "videoId": "f84XbvASkk4",
@@ -745,8 +755,8 @@
     "publishedAt": "2026-07-06T11:00:17Z",
     "thumbnail": "https://i.ytimg.com/vi/f84XbvASkk4/hqdefault.jpg",
     "channelTitle": "IBM Technology",
-    "viewCount": 13364,
-    "likeCount": 495,
+    "viewCount": 13543,
+    "likeCount": 501,
     "duration": "11:36"
   },
   {
@@ -755,19 +765,49 @@
     "publishedAt": "2026-07-06T17:48:05Z",
     "thumbnail": "https://i.ytimg.com/vi/1CAy_mB6E-g/hqdefault.jpg",
     "channelTitle": "Matt Wolfe",
-    "viewCount": 13233,
-    "likeCount": 547,
+    "viewCount": 13325,
+    "likeCount": 553,
     "duration": "1:31"
   },
   {
-    "videoId": "oXi5E3FvZKI",
-    "title": "OpenAI is FINALLY Releasing Hardware",
-    "publishedAt": "2026-07-09T17:14:13Z",
-    "thumbnail": "https://i.ytimg.com/vi/oXi5E3FvZKI/hqdefault.jpg",
+    "videoId": "pJR6I9_06e4",
+    "title": "Codex \u65b0\u529f\u80fd\u6559\u5b78\uff0cRecord & Replay\u3001\u5c0d\u8a71\u5feb\u641c\u3001Fork\u3001\u624b\u6a5f\u9060\u7aef\u64cd\u63a7\u4e00\u6b21\u8b1b\u6e05\u695a",
+    "publishedAt": "2026-07-12T07:00:10Z",
+    "thumbnail": "https://i.ytimg.com/vi/pJR6I9_06e4/hqdefault.jpg",
+    "channelTitle": "Gary Chen",
+    "viewCount": 13296,
+    "likeCount": 356,
+    "duration": "15:31"
+  },
+  {
+    "videoId": "SVAwzodyFUo",
+    "title": "How to Manage Your AI Before It Makes the Wrong Decision",
+    "publishedAt": "2026-07-12T11:00:09Z",
+    "thumbnail": "https://i.ytimg.com/vi/SVAwzodyFUo/hqdefault.jpg",
+    "channelTitle": "IBM Technology",
+    "viewCount": 12407,
+    "likeCount": 520,
+    "duration": "8:50"
+  },
+  {
+    "videoId": "lIi2FjPgjkg",
+    "title": "This Tech CEO Is Building the \u201cLinux of AI\u201d",
+    "publishedAt": "2026-07-12T23:05:51Z",
+    "thumbnail": "https://i.ytimg.com/vi/lIi2FjPgjkg/hqdefault.jpg",
     "channelTitle": "Matt Wolfe",
-    "viewCount": 12598,
-    "likeCount": 261,
-    "duration": "0:44"
+    "viewCount": 12282,
+    "likeCount": 461,
+    "duration": "1:30"
+  },
+  {
+    "videoId": "e5-6rEwzxLs",
+    "title": "Dot Plots: How to Actually See What Your Users Are Doing",
+    "publishedAt": "2026-07-09T14:00:05Z",
+    "thumbnail": "https://i.ytimg.com/vi/e5-6rEwzxLs/hqdefault.jpg",
+    "channelTitle": "Y Combinator",
+    "viewCount": 12264,
+    "likeCount": 469,
+    "duration": "13:50"
   },
   {
     "videoId": "II9Oq4bEXLo",
@@ -775,8 +815,8 @@
     "publishedAt": "2026-06-29T07:15:39Z",
     "thumbnail": "https://i.ytimg.com/vi/II9Oq4bEXLo/hqdefault.jpg",
     "channelTitle": "Ali Abdaal",
-    "viewCount": 11941,
-    "likeCount": 342,
+    "viewCount": 12003,
+    "likeCount": 344,
     "duration": "1:17"
   },
   {
@@ -785,8 +825,8 @@
     "publishedAt": "2026-07-07T08:30:20Z",
     "thumbnail": "https://i.ytimg.com/vi/5XeVLt9WejM/hqdefault.jpg",
     "channelTitle": "Gary Chen",
-    "viewCount": 11433,
-    "likeCount": 426,
+    "viewCount": 11609,
+    "likeCount": 434,
     "duration": "12:03"
   },
   {
@@ -795,29 +835,19 @@
     "publishedAt": "2026-07-02T11:00:05Z",
     "thumbnail": "https://i.ytimg.com/vi/Qw8qVSZEWBc/hqdefault.jpg",
     "channelTitle": "IBM Technology",
-    "viewCount": 11367,
-    "likeCount": 528,
+    "viewCount": 11548,
+    "likeCount": 537,
     "duration": "8:17"
   },
   {
-    "videoId": "e5-6rEwzxLs",
-    "title": "Dot Plots: How to Actually See What Your Users Are Doing",
-    "publishedAt": "2026-07-09T14:00:05Z",
-    "thumbnail": "https://i.ytimg.com/vi/e5-6rEwzxLs/hqdefault.jpg",
-    "channelTitle": "Y Combinator",
-    "viewCount": 11045,
-    "likeCount": 440,
-    "duration": "13:50"
-  },
-  {
-    "videoId": "hUH4HD6Ah9c",
-    "title": "The Benchmark No One Asked For!",
-    "publishedAt": "2026-07-04T03:21:50Z",
-    "thumbnail": "https://i.ytimg.com/vi/hUH4HD6Ah9c/hqdefault.jpg",
-    "channelTitle": "Matt Wolfe",
-    "viewCount": 9332,
-    "likeCount": 306,
-    "duration": "1:03"
+    "videoId": "-J5KoSMfPLk",
+    "title": "Learning with AI at Any Stage of Life | Fast Campus x OpenAI",
+    "publishedAt": "2026-07-13T23:07:18Z",
+    "thumbnail": "https://i.ytimg.com/vi/-J5KoSMfPLk/hqdefault.jpg",
+    "channelTitle": "OpenAI",
+    "viewCount": 10373,
+    "likeCount": 322,
+    "duration": "3:09"
   },
   {
     "videoId": "ptlZzbtzdfE",
@@ -825,29 +855,9 @@
     "publishedAt": "2026-07-08T13:00:29Z",
     "thumbnail": "https://i.ytimg.com/vi/ptlZzbtzdfE/hqdefault.jpg",
     "channelTitle": "Matt Wolfe",
-    "viewCount": 9330,
-    "likeCount": 346,
+    "viewCount": 9463,
+    "likeCount": 349,
     "duration": "1:30"
-  },
-  {
-    "videoId": "pJR6I9_06e4",
-    "title": "Codex \u65b0\u529f\u80fd\u6559\u5b78\uff0cRecord & Replay\u3001\u5c0d\u8a71\u5feb\u641c\u3001Fork\u3001\u624b\u6a5f\u9060\u7aef\u64cd\u63a7\u4e00\u6b21\u8b1b\u6e05\u695a",
-    "publishedAt": "2026-07-12T07:00:10Z",
-    "thumbnail": "https://i.ytimg.com/vi/pJR6I9_06e4/hqdefault.jpg",
-    "channelTitle": "Gary Chen",
-    "viewCount": 9311,
-    "likeCount": 283,
-    "duration": "15:31"
-  },
-  {
-    "videoId": "ObBAxL2dFzw",
-    "title": "Groww: If Your Customers Don't Love It or Hate It, You've Already Lost",
-    "publishedAt": "2026-06-15T12:30:28Z",
-    "thumbnail": "https://i.ytimg.com/vi/ObBAxL2dFzw/hqdefault.jpg",
-    "channelTitle": "Y Combinator",
-    "viewCount": 9248,
-    "likeCount": 222,
-    "duration": "30:11"
   },
   {
     "videoId": "KPsMThlFb8Y",
@@ -855,9 +865,29 @@
     "publishedAt": "2026-07-03T14:00:39Z",
     "thumbnail": "https://i.ytimg.com/vi/KPsMThlFb8Y/hqdefault.jpg",
     "channelTitle": "Tonbi's AI Garage",
-    "viewCount": 9073,
-    "likeCount": 337,
+    "viewCount": 9308,
+    "likeCount": 342,
     "duration": "31:06"
+  },
+  {
+    "videoId": "ObBAxL2dFzw",
+    "title": "Groww: If Your Customers Don't Love It or Hate It, You've Already Lost",
+    "publishedAt": "2026-06-15T12:30:28Z",
+    "thumbnail": "https://i.ytimg.com/vi/ObBAxL2dFzw/hqdefault.jpg",
+    "channelTitle": "Y Combinator",
+    "viewCount": 9291,
+    "likeCount": 226,
+    "duration": "30:11"
+  },
+  {
+    "videoId": "pcx85mLekHw",
+    "title": "AI:AM Highlights: Exploring the J-Space, AI Superforecasters, SambaNova's Chips, & LTX Video Gen",
+    "publishedAt": "2026-07-09T19:38:34Z",
+    "thumbnail": "https://i.ytimg.com/vi/pcx85mLekHw/hqdefault.jpg",
+    "channelTitle": "Cognitive Revolution \"How AI Changes Everything\"",
+    "viewCount": 9229,
+    "likeCount": 19,
+    "duration": "2:06:41"
   },
   {
     "videoId": "tB_i4nTShxA",
@@ -865,7 +895,7 @@
     "publishedAt": "2026-06-27T15:00:23Z",
     "thumbnail": "https://i.ytimg.com/vi/tB_i4nTShxA/hqdefault.jpg",
     "channelTitle": "Tina Huang",
-    "viewCount": 8835,
+    "viewCount": 8877,
     "likeCount": 117,
     "duration": "0:08"
   },
@@ -875,8 +905,8 @@
     "publishedAt": "2026-06-21T06:43:56Z",
     "thumbnail": "https://i.ytimg.com/vi/41LR-NhwHfI/hqdefault.jpg",
     "channelTitle": "Gary Chen",
-    "viewCount": 8261,
-    "likeCount": 348,
+    "viewCount": 8298,
+    "likeCount": 349,
     "duration": "14:36"
   },
   {
@@ -885,19 +915,19 @@
     "publishedAt": "2026-07-07T13:01:10Z",
     "thumbnail": "https://i.ytimg.com/vi/mCu3mVcvpLE/hqdefault.jpg",
     "channelTitle": "Matt Wolfe",
-    "viewCount": 8210,
-    "likeCount": 315,
+    "viewCount": 8255,
+    "likeCount": 318,
     "duration": "1:32"
   },
   {
-    "videoId": "SVAwzodyFUo",
-    "title": "How to Manage Your AI Before It Makes the Wrong Decision",
-    "publishedAt": "2026-07-12T11:00:09Z",
-    "thumbnail": "https://i.ytimg.com/vi/SVAwzodyFUo/hqdefault.jpg",
-    "channelTitle": "IBM Technology",
-    "viewCount": 7879,
-    "likeCount": 384,
-    "duration": "8:50"
+    "videoId": "yATno77Uo6A",
+    "title": "Stampli scales product marketing with ChatGPT Work",
+    "publishedAt": "2026-07-10T21:11:41Z",
+    "thumbnail": "https://i.ytimg.com/vi/yATno77Uo6A/hqdefault.jpg",
+    "channelTitle": "OpenAI",
+    "viewCount": 7434,
+    "likeCount": 178,
+    "duration": "1:14"
   },
   {
     "videoId": "xYVfknDQHU4",
@@ -905,8 +935,8 @@
     "publishedAt": "2026-07-09T22:30:40Z",
     "thumbnail": "https://i.ytimg.com/vi/xYVfknDQHU4/hqdefault.jpg",
     "channelTitle": "OpenAI",
-    "viewCount": 6749,
-    "likeCount": 124,
+    "viewCount": 6916,
+    "likeCount": 125,
     "duration": "0:56"
   },
   {
@@ -915,19 +945,9 @@
     "publishedAt": "2026-06-18T07:01:05Z",
     "thumbnail": "https://i.ytimg.com/vi/L5LLzXrKFIY/hqdefault.jpg",
     "channelTitle": "Gary Chen",
-    "viewCount": 6742,
-    "likeCount": 185,
+    "viewCount": 6761,
+    "likeCount": 187,
     "duration": "14:50"
-  },
-  {
-    "videoId": "yATno77Uo6A",
-    "title": "Stampli scales product marketing with ChatGPT Work",
-    "publishedAt": "2026-07-10T21:11:41Z",
-    "thumbnail": "https://i.ytimg.com/vi/yATno77Uo6A/hqdefault.jpg",
-    "channelTitle": "OpenAI",
-    "viewCount": 6684,
-    "likeCount": 168,
-    "duration": "1:14"
   },
   {
     "videoId": "tV5zXS78HzU",
@@ -935,29 +955,9 @@
     "publishedAt": "2026-07-03T10:00:27Z",
     "thumbnail": "https://i.ytimg.com/vi/tV5zXS78HzU/hqdefault.jpg",
     "channelTitle": "IBM Technology",
-    "viewCount": 6618,
-    "likeCount": 155,
+    "viewCount": 6665,
+    "likeCount": 157,
     "duration": "40:31"
-  },
-  {
-    "videoId": "jb-td2mspPE",
-    "title": "Inside Google\u2019s new AI hardware",
-    "publishedAt": "2026-07-08T19:00:06Z",
-    "thumbnail": "https://i.ytimg.com/vi/jb-td2mspPE/hqdefault.jpg",
-    "channelTitle": "Google Cloud Tech",
-    "viewCount": 6524,
-    "likeCount": 199,
-    "duration": "5:00"
-  },
-  {
-    "videoId": "pcx85mLekHw",
-    "title": "AI:AM Highlights: Exploring the J-Space, AI Superforecasters, SambaNova's Chips, & LTX Video Gen",
-    "publishedAt": "2026-07-09T19:38:34Z",
-    "thumbnail": "https://i.ytimg.com/vi/pcx85mLekHw/hqdefault.jpg",
-    "channelTitle": "Cognitive Revolution \"How AI Changes Everything\"",
-    "viewCount": 5894,
-    "likeCount": 18,
-    "duration": "2:06:41"
   },
   {
     "videoId": "Cb0N8Pnja30",
@@ -965,8 +965,8 @@
     "publishedAt": "2026-07-09T22:30:35Z",
     "thumbnail": "https://i.ytimg.com/vi/Cb0N8Pnja30/hqdefault.jpg",
     "channelTitle": "OpenAI",
-    "viewCount": 5588,
-    "likeCount": 70,
+    "viewCount": 5880,
+    "likeCount": 74,
     "duration": "0:30"
   },
   {
@@ -975,19 +975,19 @@
     "publishedAt": "2026-07-08T10:00:20Z",
     "thumbnail": "https://i.ytimg.com/vi/HQDT_1OXUuU/hqdefault.jpg",
     "channelTitle": "IBM Technology",
-    "viewCount": 5501,
-    "likeCount": 186,
+    "viewCount": 5663,
+    "likeCount": 188,
     "duration": "42:02"
   },
   {
-    "videoId": "lIi2FjPgjkg",
-    "title": "This Tech CEO Is Building the \u201cLinux of AI\u201d",
-    "publishedAt": "2026-07-12T23:05:51Z",
-    "thumbnail": "https://i.ytimg.com/vi/lIi2FjPgjkg/hqdefault.jpg",
-    "channelTitle": "Matt Wolfe",
-    "viewCount": 4982,
-    "likeCount": 192,
-    "duration": "1:30"
+    "videoId": "oanQrXEiCy4",
+    "title": "What is an AI Code Generator? LLM Coding, Productivity, & Risk",
+    "publishedAt": "2026-07-13T11:00:00Z",
+    "thumbnail": "https://i.ytimg.com/vi/oanQrXEiCy4/hqdefault.jpg",
+    "channelTitle": "IBM Technology",
+    "viewCount": 5300,
+    "likeCount": 265,
+    "duration": "12:48"
   },
   {
     "videoId": "SvGLxXHYCd8",
@@ -995,39 +995,9 @@
     "publishedAt": "2026-07-10T09:19:42Z",
     "thumbnail": "https://i.ytimg.com/vi/SvGLxXHYCd8/hqdefault.jpg",
     "channelTitle": "OpenAI",
-    "viewCount": 4798,
-    "likeCount": 104,
+    "viewCount": 5052,
+    "likeCount": 106,
     "duration": "1:26"
-  },
-  {
-    "videoId": "sqXsMDOxP0Y",
-    "title": "ChatGPT Work | Zapier: Seven Figures in Monthly Pipeline",
-    "publishedAt": "2026-07-09T21:19:10Z",
-    "thumbnail": "https://i.ytimg.com/vi/sqXsMDOxP0Y/hqdefault.jpg",
-    "channelTitle": "OpenAI",
-    "viewCount": 4624,
-    "likeCount": 88,
-    "duration": "0:59"
-  },
-  {
-    "videoId": "RYUR9BdDgyI",
-    "title": "The new post-quantum cryptography executive order. Plus: What is Q-Day, really?",
-    "publishedAt": "2026-07-01T10:30:41Z",
-    "thumbnail": "https://i.ytimg.com/vi/RYUR9BdDgyI/hqdefault.jpg",
-    "channelTitle": "IBM Technology",
-    "viewCount": 4597,
-    "likeCount": 160,
-    "duration": "44:12"
-  },
-  {
-    "videoId": "md5t5Nu44A4",
-    "title": "ChatGPT Work | Zapier: Seven Figures in Monthly Pipeline",
-    "publishedAt": "2026-07-09T21:26:20Z",
-    "thumbnail": "https://i.ytimg.com/vi/md5t5Nu44A4/hqdefault.jpg",
-    "channelTitle": "OpenAI",
-    "viewCount": 4203,
-    "likeCount": 45,
-    "duration": "0:34"
   },
   {
     "videoId": "WHFLWrnFc1E",
@@ -1035,9 +1005,19 @@
     "publishedAt": "2026-07-10T14:52:54Z",
     "thumbnail": "https://i.ytimg.com/vi/WHFLWrnFc1E/hqdefault.jpg",
     "channelTitle": "IBM Technology",
-    "viewCount": 4104,
-    "likeCount": 123,
+    "viewCount": 4490,
+    "likeCount": 130,
     "duration": "46:04"
+  },
+  {
+    "videoId": "BDWdp_fIOHk",
+    "title": "Build A Custom Browser Extension [SUPER Easy!]",
+    "publishedAt": "2026-07-13T20:18:05Z",
+    "thumbnail": "https://i.ytimg.com/vi/BDWdp_fIOHk/hqdefault.jpg",
+    "channelTitle": "Matt Wolfe",
+    "viewCount": 4240,
+    "likeCount": 264,
+    "duration": "1:01"
   },
   {
     "videoId": "yAOzupIW87E",
@@ -1045,29 +1025,9 @@
     "publishedAt": "2026-07-09T13:49:54Z",
     "thumbnail": "https://i.ytimg.com/vi/yAOzupIW87E/hqdefault.jpg",
     "channelTitle": "Dave Ebbelaar",
-    "viewCount": 3840,
-    "likeCount": 174,
+    "viewCount": 4060,
+    "likeCount": 181,
     "duration": "30:13"
-  },
-  {
-    "videoId": "UwxxlTNPjWo",
-    "title": "The 100,000 Sandbox Problem \u2014 Akshat Bubna, Modal CTO",
-    "publishedAt": "2026-07-08T22:42:38Z",
-    "thumbnail": "https://i.ytimg.com/vi/UwxxlTNPjWo/hqdefault.jpg",
-    "channelTitle": "Latent Space",
-    "viewCount": 3791,
-    "likeCount": 95,
-    "duration": "59:10"
-  },
-  {
-    "videoId": "z4gueKVs6Bo",
-    "title": "Voice for AI Agents and Applications",
-    "publishedAt": "2026-06-17T15:00:38Z",
-    "thumbnail": "https://i.ytimg.com/vi/z4gueKVs6Bo/hqdefault.jpg",
-    "channelTitle": "DeepLearningAI",
-    "viewCount": 3719,
-    "likeCount": 82,
-    "duration": "2:28"
   },
   {
     "videoId": "eD5lc1mZDZk",
@@ -1075,9 +1035,19 @@
     "publishedAt": "2026-07-10T21:17:12Z",
     "thumbnail": "https://i.ytimg.com/vi/eD5lc1mZDZk/hqdefault.jpg",
     "channelTitle": "OpenAI",
-    "viewCount": 3645,
-    "likeCount": 32,
+    "viewCount": 3971,
+    "likeCount": 39,
     "duration": "0:34"
+  },
+  {
+    "videoId": "UwxxlTNPjWo",
+    "title": "The 100,000 Sandbox Problem \u2014 Akshat Bubna, Modal CTO",
+    "publishedAt": "2026-07-08T22:42:38Z",
+    "thumbnail": "https://i.ytimg.com/vi/UwxxlTNPjWo/hqdefault.jpg",
+    "channelTitle": "Latent Space",
+    "viewCount": 3959,
+    "likeCount": 96,
+    "duration": "59:10"
   },
   {
     "videoId": "l2b9UrSsz-w",
@@ -1085,29 +1055,19 @@
     "publishedAt": "2026-07-12T11:11:53Z",
     "thumbnail": "https://i.ytimg.com/vi/l2b9UrSsz-w/hqdefault.jpg",
     "channelTitle": "Cognitive Revolution \"How AI Changes Everything\"",
-    "viewCount": 3461,
-    "likeCount": 16,
+    "viewCount": 3868,
+    "likeCount": 21,
     "duration": "2:23:38"
   },
   {
-    "videoId": "7D3w87YqfA8",
-    "title": "7-day Voice AI Build Challenge",
-    "publishedAt": "2026-06-24T17:11:15Z",
-    "thumbnail": "https://i.ytimg.com/vi/7D3w87YqfA8/hqdefault.jpg",
+    "videoId": "z4gueKVs6Bo",
+    "title": "Voice for AI Agents and Applications",
+    "publishedAt": "2026-06-17T15:00:38Z",
+    "thumbnail": "https://i.ytimg.com/vi/z4gueKVs6Bo/hqdefault.jpg",
     "channelTitle": "DeepLearningAI",
-    "viewCount": 3406,
-    "likeCount": 30,
-    "duration": "0:30"
-  },
-  {
-    "videoId": "nep5byxmr_M",
-    "title": "RingCentral Scales Customer Programs with ChatGPT Work",
-    "publishedAt": "2026-07-10T16:02:41Z",
-    "thumbnail": "https://i.ytimg.com/vi/nep5byxmr_M/hqdefault.jpg",
-    "channelTitle": "OpenAI",
-    "viewCount": 3306,
-    "likeCount": 78,
-    "duration": "1:09"
+    "viewCount": 3811,
+    "likeCount": 83,
+    "duration": "2:28"
   },
   {
     "videoId": "KtlY6ETPyKo",
@@ -1115,9 +1075,39 @@
     "publishedAt": "2026-07-10T14:00:39Z",
     "thumbnail": "https://i.ytimg.com/vi/KtlY6ETPyKo/hqdefault.jpg",
     "channelTitle": "Tonbi's AI Garage",
-    "viewCount": 3288,
-    "likeCount": 116,
+    "viewCount": 3606,
+    "likeCount": 124,
     "duration": "27:38"
+  },
+  {
+    "videoId": "nep5byxmr_M",
+    "title": "RingCentral Scales Customer Programs with ChatGPT Work",
+    "publishedAt": "2026-07-10T16:02:41Z",
+    "thumbnail": "https://i.ytimg.com/vi/nep5byxmr_M/hqdefault.jpg",
+    "channelTitle": "OpenAI",
+    "viewCount": 3497,
+    "likeCount": 79,
+    "duration": "1:09"
+  },
+  {
+    "videoId": "7D3w87YqfA8",
+    "title": "7-day Voice AI Build Challenge",
+    "publishedAt": "2026-06-24T17:11:15Z",
+    "thumbnail": "https://i.ytimg.com/vi/7D3w87YqfA8/hqdefault.jpg",
+    "channelTitle": "DeepLearningAI",
+    "viewCount": 3424,
+    "likeCount": 30,
+    "duration": "0:30"
+  },
+  {
+    "videoId": "MdTqoR-7oHg",
+    "title": "RingCentral Scales Customer Programs with ChatGPT Work",
+    "publishedAt": "2026-07-10T21:21:13Z",
+    "thumbnail": "https://i.ytimg.com/vi/MdTqoR-7oHg/hqdefault.jpg",
+    "channelTitle": "OpenAI",
+    "viewCount": 3344,
+    "likeCount": 42,
+    "duration": "0:34"
   },
   {
     "videoId": "YQWXxnkK4dw",
@@ -1125,7 +1115,7 @@
     "publishedAt": "2026-06-30T21:41:29Z",
     "thumbnail": "https://i.ytimg.com/vi/YQWXxnkK4dw/hqdefault.jpg",
     "channelTitle": "Latent Space",
-    "viewCount": 3176,
+    "viewCount": 3198,
     "likeCount": 80,
     "duration": "1:48:40"
   },
@@ -1135,29 +1125,9 @@
     "publishedAt": "2026-06-29T07:00:06Z",
     "thumbnail": "https://i.ytimg.com/vi/hLUGXO5DSpo/hqdefault.jpg",
     "channelTitle": "Latent Space",
-    "viewCount": 3102,
+    "viewCount": 3142,
     "likeCount": 74,
     "duration": "23:15"
-  },
-  {
-    "videoId": "j8BAficRjEc",
-    "title": "AI Security After Codex and Claude Code \u2014 Zico Kolter & Matt Fredrikson, Gray Swan",
-    "publishedAt": "2026-06-22T20:45:21Z",
-    "thumbnail": "https://i.ytimg.com/vi/j8BAficRjEc/hqdefault.jpg",
-    "channelTitle": "Latent Space",
-    "viewCount": 3040,
-    "likeCount": 70,
-    "duration": "1:07:31"
-  },
-  {
-    "videoId": "MdTqoR-7oHg",
-    "title": "RingCentral Scales Customer Programs with ChatGPT Work",
-    "publishedAt": "2026-07-10T21:21:13Z",
-    "thumbnail": "https://i.ytimg.com/vi/MdTqoR-7oHg/hqdefault.jpg",
-    "channelTitle": "OpenAI",
-    "viewCount": 3019,
-    "likeCount": 36,
-    "duration": "0:34"
   },
   {
     "videoId": "OHaYGPiZQ3g",
@@ -1165,19 +1135,19 @@
     "publishedAt": "2026-07-10T06:23:30Z",
     "thumbnail": "https://i.ytimg.com/vi/OHaYGPiZQ3g/hqdefault.jpg",
     "channelTitle": "Tonbi's AI Garage",
-    "viewCount": 2978,
-    "likeCount": 97,
+    "viewCount": 3075,
+    "likeCount": 100,
     "duration": "16:37"
   },
   {
-    "videoId": "DcvgPEApHT8",
-    "title": "\u26a1\ufe0fEvery product of the future will be a living system  \u2014 Ronak Malde, Trajectory.ai",
-    "publishedAt": "2026-06-21T22:10:55Z",
-    "thumbnail": "https://i.ytimg.com/vi/DcvgPEApHT8/hqdefault.jpg",
+    "videoId": "j8BAficRjEc",
+    "title": "AI Security After Codex and Claude Code \u2014 Zico Kolter & Matt Fredrikson, Gray Swan",
+    "publishedAt": "2026-06-22T20:45:21Z",
+    "thumbnail": "https://i.ytimg.com/vi/j8BAficRjEc/hqdefault.jpg",
     "channelTitle": "Latent Space",
-    "viewCount": 2830,
-    "likeCount": 62,
-    "duration": "33:58"
+    "viewCount": 3067,
+    "likeCount": 70,
+    "duration": "1:07:31"
   },
   {
     "videoId": "4GlEfQHQb-M",
@@ -1185,9 +1155,19 @@
     "publishedAt": "2026-07-08T14:00:28Z",
     "thumbnail": "https://i.ytimg.com/vi/4GlEfQHQb-M/hqdefault.jpg",
     "channelTitle": "Tonbi's AI Garage",
-    "viewCount": 2829,
-    "likeCount": 109,
+    "viewCount": 2936,
+    "likeCount": 112,
     "duration": "19:36"
+  },
+  {
+    "videoId": "DcvgPEApHT8",
+    "title": "\u26a1\ufe0fEvery product of the future will be a living system  \u2014 Ronak Malde, Trajectory.ai",
+    "publishedAt": "2026-06-21T22:10:55Z",
+    "thumbnail": "https://i.ytimg.com/vi/DcvgPEApHT8/hqdefault.jpg",
+    "channelTitle": "Latent Space",
+    "viewCount": 2853,
+    "likeCount": 62,
+    "duration": "33:58"
   },
   {
     "videoId": "LO6CsrY0-aU",
@@ -1195,19 +1175,9 @@
     "publishedAt": "2026-07-02T14:00:18Z",
     "thumbnail": "https://i.ytimg.com/vi/LO6CsrY0-aU/hqdefault.jpg",
     "channelTitle": "Tonbi's AI Garage",
-    "viewCount": 2371,
-    "likeCount": 111,
+    "viewCount": 2397,
+    "likeCount": 112,
     "duration": "18:46"
-  },
-  {
-    "videoId": "2f9_RAFbz1s",
-    "title": "First Look at Grok 4.5: Grok's First True Frontier Model?",
-    "publishedAt": "2026-07-09T14:00:13Z",
-    "thumbnail": "https://i.ytimg.com/vi/2f9_RAFbz1s/hqdefault.jpg",
-    "channelTitle": "Tonbi's AI Garage",
-    "viewCount": 2169,
-    "likeCount": 67,
-    "duration": "15:56"
   },
   {
     "videoId": "bIOCKXcxloQ",
@@ -1215,19 +1185,29 @@
     "publishedAt": "2026-07-10T20:24:16Z",
     "thumbnail": "https://i.ytimg.com/vi/bIOCKXcxloQ/hqdefault.jpg",
     "channelTitle": "Latent Space",
-    "viewCount": 2166,
-    "likeCount": 42,
+    "viewCount": 2297,
+    "likeCount": 45,
     "duration": "28:03"
   },
   {
-    "videoId": "URjJQYAPsQc",
-    "title": "Testing Grok Build + Composer 2.5 Fast (Setup Guide & Feature Tour)",
-    "publishedAt": "2026-06-30T14:00:12Z",
-    "thumbnail": "https://i.ytimg.com/vi/URjJQYAPsQc/hqdefault.jpg",
+    "videoId": "2f9_RAFbz1s",
+    "title": "First Look at Grok 4.5: Grok's First True Frontier Model?",
+    "publishedAt": "2026-07-09T14:00:13Z",
+    "thumbnail": "https://i.ytimg.com/vi/2f9_RAFbz1s/hqdefault.jpg",
     "channelTitle": "Tonbi's AI Garage",
-    "viewCount": 1705,
-    "likeCount": 34,
-    "duration": "12:18"
+    "viewCount": 2216,
+    "likeCount": 72,
+    "duration": "15:56"
+  },
+  {
+    "videoId": "FYD1cV2F6sc",
+    "title": "Is your Kubernetes certification still worth it? | The Agent Factory",
+    "publishedAt": "2026-07-13T16:31:46Z",
+    "thumbnail": "https://i.ytimg.com/vi/FYD1cV2F6sc/hqdefault.jpg",
+    "channelTitle": "Google Cloud Tech",
+    "viewCount": 1926,
+    "likeCount": 84,
+    "duration": "1:04:57"
   },
   {
     "videoId": "xLNejNC_7Ic",
@@ -1235,8 +1215,8 @@
     "publishedAt": "2026-07-01T14:00:02Z",
     "thumbnail": "https://i.ytimg.com/vi/xLNejNC_7Ic/hqdefault.jpg",
     "channelTitle": "Tonbi's AI Garage",
-    "viewCount": 1693,
-    "likeCount": 60,
+    "viewCount": 1710,
+    "likeCount": 61,
     "duration": "15:52"
   },
   {
@@ -1245,8 +1225,8 @@
     "publishedAt": "2026-07-10T16:00:39Z",
     "thumbnail": "https://i.ytimg.com/vi/hZ6vAiJlqWs/hqdefault.jpg",
     "channelTitle": "Google Cloud Tech",
-    "viewCount": 1449,
-    "likeCount": 63,
+    "viewCount": 1569,
+    "likeCount": 64,
     "duration": "5:02"
   },
   {
@@ -1255,7 +1235,7 @@
     "publishedAt": "2026-07-09T19:00:01Z",
     "thumbnail": "https://i.ytimg.com/vi/51mVFPObVQU/hqdefault.jpg",
     "channelTitle": "Google Cloud Tech",
-    "viewCount": 1367,
+    "viewCount": 1425,
     "likeCount": 63,
     "duration": "6:13"
   },
@@ -1265,19 +1245,9 @@
     "publishedAt": "2026-07-09T19:00:12Z",
     "thumbnail": "https://i.ytimg.com/vi/SpfgNqPIMNI/hqdefault.jpg",
     "channelTitle": "Google Cloud Tech",
-    "viewCount": 1339,
+    "viewCount": 1372,
     "likeCount": 12,
     "duration": "7:23"
-  },
-  {
-    "videoId": "70MvMatxHgs",
-    "title": "What is the biggest AI agent controversy today? \ud83e\udd2f",
-    "publishedAt": "2026-07-09T19:00:30Z",
-    "thumbnail": "https://i.ytimg.com/vi/70MvMatxHgs/hqdefault.jpg",
-    "channelTitle": "Google Cloud Tech",
-    "viewCount": 968,
-    "likeCount": 10,
-    "duration": "0:26"
   },
   {
     "videoId": "K796MYUgt0k",
@@ -1285,9 +1255,39 @@
     "publishedAt": "2026-07-11T17:00:06Z",
     "thumbnail": "https://i.ytimg.com/vi/K796MYUgt0k/hqdefault.jpg",
     "channelTitle": "Latent Space",
-    "viewCount": 933,
-    "likeCount": 26,
+    "viewCount": 1195,
+    "likeCount": 33,
     "duration": "48:54"
+  },
+  {
+    "videoId": "tVED0r3vGrQ",
+    "title": "I Put an Agent Skill on the Solana Blockchain (Real Code Bytes, Not a Link)",
+    "publishedAt": "2026-07-13T14:00:15Z",
+    "thumbnail": "https://i.ytimg.com/vi/tVED0r3vGrQ/hqdefault.jpg",
+    "channelTitle": "Tonbi's AI Garage",
+    "viewCount": 1171,
+    "likeCount": 22,
+    "duration": "21:15"
+  },
+  {
+    "videoId": "q571PxpsdoA",
+    "title": "Meet the family running a cereal business from their dining room with GPT-5.6",
+    "publishedAt": "2026-07-11T00:44:29Z",
+    "thumbnail": "https://i.ytimg.com/vi/q571PxpsdoA/hqdefault.jpg",
+    "channelTitle": "OpenAI",
+    "viewCount": 1143,
+    "likeCount": 31,
+    "duration": "2:02"
+  },
+  {
+    "videoId": "70MvMatxHgs",
+    "title": "What is the biggest AI agent controversy today? \ud83e\udd2f",
+    "publishedAt": "2026-07-09T19:00:30Z",
+    "thumbnail": "https://i.ytimg.com/vi/70MvMatxHgs/hqdefault.jpg",
+    "channelTitle": "Google Cloud Tech",
+    "viewCount": 998,
+    "likeCount": 11,
+    "duration": "0:26"
   },
   {
     "videoId": "m2G43vg59xg",
@@ -1295,8 +1295,8 @@
     "publishedAt": "2026-07-06T14:00:01Z",
     "thumbnail": "https://i.ytimg.com/vi/m2G43vg59xg/hqdefault.jpg",
     "channelTitle": "Tonbi's AI Garage",
-    "viewCount": 882,
-    "likeCount": 28,
+    "viewCount": 903,
+    "likeCount": 29,
     "duration": "17:36"
   },
   {
@@ -1305,9 +1305,19 @@
     "publishedAt": "2026-07-09T19:00:03Z",
     "thumbnail": "https://i.ytimg.com/vi/-g_-UYeWQtM/hqdefault.jpg",
     "channelTitle": "Google Cloud Tech",
-    "viewCount": 805,
-    "likeCount": 36,
+    "viewCount": 857,
+    "likeCount": 37,
     "duration": "7:46"
+  },
+  {
+    "videoId": "jhpmMTus5a0",
+    "title": "The AI Memory Problem: Why Long Context Isn\u2019t Enough \u2014 Dan Biderman, Engram Co-founder & CEO",
+    "publishedAt": "2026-07-13T18:21:40Z",
+    "thumbnail": "https://i.ytimg.com/vi/jhpmMTus5a0/hqdefault.jpg",
+    "channelTitle": "Latent Space",
+    "viewCount": 638,
+    "likeCount": 7,
+    "duration": "49:44"
   },
   {
     "videoId": "hcsMps4qPeQ",
@@ -1315,8 +1325,8 @@
     "publishedAt": "2026-07-07T18:47:01Z",
     "thumbnail": "https://i.ytimg.com/vi/hcsMps4qPeQ/hqdefault.jpg",
     "channelTitle": "Cognitive Revolution \"How AI Changes Everything\"",
-    "viewCount": 603,
-    "likeCount": 16,
+    "viewCount": 635,
+    "likeCount": 17,
     "duration": "2:11:20"
   },
   {
@@ -1325,7 +1335,7 @@
     "publishedAt": "2026-07-09T19:00:16Z",
     "thumbnail": "https://i.ytimg.com/vi/4D6_2G6QmpM/hqdefault.jpg",
     "channelTitle": "Google Cloud Tech",
-    "viewCount": 468,
+    "viewCount": 503,
     "likeCount": 15,
     "duration": "5:49"
   },
@@ -1345,7 +1355,7 @@
     "publishedAt": "2026-07-07T00:57:22Z",
     "thumbnail": "https://i.ytimg.com/vi/kMYzROAUtb4/hqdefault.jpg",
     "channelTitle": "Cognitive Revolution \"How AI Changes Everything\"",
-    "viewCount": 295,
+    "viewCount": 297,
     "likeCount": 9,
     "duration": "2:02:49"
   },
@@ -1355,7 +1365,7 @@
     "publishedAt": "2026-07-08T18:44:08Z",
     "thumbnail": "https://i.ytimg.com/vi/pGld0-c6u2U/hqdefault.jpg",
     "channelTitle": "Cognitive Revolution \"How AI Changes Everything\"",
-    "viewCount": 194,
+    "viewCount": 203,
     "likeCount": 6,
     "duration": "2:42:37"
   },
@@ -1365,7 +1375,7 @@
     "publishedAt": "2026-07-09T19:00:01Z",
     "thumbnail": "https://i.ytimg.com/vi/SKT9wiBh29A/hqdefault.jpg",
     "channelTitle": "Google Cloud Tech",
-    "viewCount": 166,
+    "viewCount": 178,
     "likeCount": 8,
     "duration": "6:46"
   },
@@ -1375,7 +1385,7 @@
     "publishedAt": "2026-07-09T19:00:09Z",
     "thumbnail": "https://i.ytimg.com/vi/6Ez2VII8V00/hqdefault.jpg",
     "channelTitle": "Google Cloud Tech",
-    "viewCount": 153,
+    "viewCount": 168,
     "likeCount": 3,
     "duration": "5:08"
   },
@@ -1385,7 +1395,7 @@
     "publishedAt": "2026-07-01T15:12:36Z",
     "thumbnail": "https://i.ytimg.com/vi/wlUMd8XmpTI/hqdefault.jpg",
     "channelTitle": "TechWhistle",
-    "viewCount": 109,
+    "viewCount": 121,
     "likeCount": 3,
     "duration": "3:47"
   },
